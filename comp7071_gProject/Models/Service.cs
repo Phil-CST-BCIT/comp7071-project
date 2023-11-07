@@ -8,7 +8,7 @@ namespace MyMVC.Models
     public class Service
     {
         public int Id { get; set; }
-        public String Type { get; set; }
+        public String Type { get; set; } = null!;
         public float Rate { get; set; }
     }
 }

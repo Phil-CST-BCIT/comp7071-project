@@ -7,8 +7,8 @@ namespace MyMVC.Models
 {
     public class LineItem
     {
-        public Invoice Invoice { get; set; }
-        public Service Service { get; set; }
+        public Invoice Invoice { get; set; } = null!;
+        public Service Service { get; set; } = null!;
         public int Hours { get; set; }
     }
 }

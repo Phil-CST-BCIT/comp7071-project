@@ -8,8 +8,8 @@ namespace MyMVC.Models
     public class JobReport
     {
         public int Id { get; set; }
-        public MaintenanceRequest MaintenanceRequest { get; set; }
+        public MaintenanceRequest MaintenanceRequest { get; set; } = null!;
         public DateTime Date_completed {  get; set; }
-        public string Description { get; set; }
+        public string Description { get; set; } = null!;
     }
 }

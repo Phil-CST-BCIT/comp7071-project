@@ -8,7 +8,7 @@ namespace MyMVC.Models
     public class WorkItem
     {
         public int Id { get; set; }
-        public MaintenanceRequest MaintenanceRequest { get; set; }
-        public string Status {  get; set; }
+        public MaintenanceRequest MaintenanceRequest { get; set; } = null!;
+        public string Status {  get; set; } = null!;
     }
 }

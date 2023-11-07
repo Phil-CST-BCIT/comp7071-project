@@ -7,8 +7,8 @@ namespace MyMVC.Models
 {
     public class Application
     {
-        public Applicant Applicant {  get; set; }
+        public Applicant Applicant {  get; set; } = null!;
 
-        public Asset Asset { get; set; }
+        public Asset Asset { get; set; } = null!;
     }
 }
