@@ -7,15 +7,9 @@ namespace MyMVC.Models
 {
     public class RentHistory
     {
-
         public int Id { get; set; }
-
-        public int ASSET_FK { get; set; }
-
-        public DateTime date {  get; set; }
-
-        public float amount {  get; set; }
-
-
+        public Asset Asset { get; set; }
+        public DateTime Date {  get; set; }
+        public float Amount {  get; set; }
     }
 }

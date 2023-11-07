@@ -5,10 +5,7 @@ using System.Web;
 
 namespace MyMVC.Models
 {
-    public class Application
+    public class Applicant
     {
-        public int APPLICANT_FK {  get; set; }
-
-        public int ASSET_FK { get; set; }
     }
 }

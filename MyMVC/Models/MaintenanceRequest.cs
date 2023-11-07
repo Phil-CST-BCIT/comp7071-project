@@ -7,14 +7,10 @@ namespace MyMVC.Models
 {
     public class MaintenanceRequest
     {
-        public int RENER_FK {  get; set; }
-
-        public int APPLIANCE_FK { get; set; }
-        
-        public string Description { get; set; }
-
+        public Renter Renter {  get; set; }
+        public Appliance Appliance{ get; set; }
         public DateTime Date { get; set; }
-
+        public string Description { get; set; }
 
     }
 }

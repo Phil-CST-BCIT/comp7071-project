@@ -6,7 +6,7 @@ using System.Web;
 namespace MyMVC.Models
 {
     public class OccupancyHistory
-    {
+    { 
 
         public int Id { get; set; }
 
