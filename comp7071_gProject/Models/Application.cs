@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Application
 {
-    public class Application
-    {
-        public Applicant Applicant {  get; set; } = null!;
+    public int ApplicantId { get; set; }
 
-        public Asset Asset { get; set; } = null!;
-    }
+    public int AssetId { get; set; }
+
+    public virtual Applicant Applicant { get; set; } = null!;
+
+    public virtual Asset Asset { get; set; } = null!;
 }

@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Service
 {
-    public class Service
-    {
-        public int Id { get; set; }
-        public String Type { get; set; } = null!;
-        public float Rate { get; set; }
-    }
+    public int Id { get; set; }
+
+    public string? Type { get; set; }
+
+    public double? Rate { get; set; }
+
+    public virtual ICollection<LineItem> LineItems { get; set; } = new List<LineItem>();
 }

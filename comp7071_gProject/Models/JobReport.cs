@@ -1,15 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class JobReport
 {
-    public class JobReport
-    {
-        public int Id { get; set; }
-        public MaintenanceRequest MaintenanceRequest { get; set; } = null!;
-        public DateTime Date_completed {  get; set; }
-        public string Description { get; set; } = null!;
-    }
+    public int Id { get; set; }
+
+    public int MaintenanceRequestId { get; set; }
+
+    public string? Description { get; set; }
+
+    public DateTime? DateCompleted { get; set; }
+
+    public virtual MaintenanceRequest MaintenanceRequest { get; set; } = null!;
 }

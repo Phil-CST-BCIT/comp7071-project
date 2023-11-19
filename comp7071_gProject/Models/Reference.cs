@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Reference
 {
-    public class Reference
-    {
-        public int Id {  get; set; }
-        public string Name {  get; set; } = null!;
-        public string Relationship { get; set; } = null!;
+    public int Id { get; set; }
 
-    }
+    public string? Name { get; set; }
+
+    public string? Relationship { get; set; }
 }

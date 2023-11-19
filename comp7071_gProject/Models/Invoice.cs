@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Invoice
 {
-    public class Invoice
-    {
+    public int Id { get; set; }
 
-        public int Id { get; set; }
-        public float Rent_amount { get; set; }
-        public float Tax {  get; set; }
-        public DateTime Due_date { get; set; }
-    }
+    public double? RentAmount { get; set; }
+
+    public double? Tax { get; set; }
+
+    public DateTime? DueDate { get; set; }
+
+    public virtual ICollection<LineItem> LineItems { get; set; } = new List<LineItem>();
 }

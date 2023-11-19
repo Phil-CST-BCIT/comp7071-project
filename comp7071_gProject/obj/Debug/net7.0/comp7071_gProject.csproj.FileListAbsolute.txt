@@ -28,3 +28,13 @@ C:\Users\BeeWang-9i23\source\repos\comp7071_gProject\comp7071_gProject\obj\Debug
 C:\Users\BeeWang-9i23\source\repos\comp7071_gProject\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.pdb
 C:\Users\BeeWang-9i23\source\repos\comp7071_gProject\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.genruntimeconfig.cache
 C:\Users\BeeWang-9i23\source\repos\comp7071_gProject\comp7071_gProject\obj\Debug\net7.0\ref\comp7071_gProject.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.csproj.AssemblyReference.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.AssemblyInfoInputs.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.AssemblyInfo.cs
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.csproj.CoreCompileInputs.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.RazorAssemblyInfo.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.RazorAssemblyInfo.cs
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\EFCorePluralizer.cs
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject\obj\Debug\net7.0\comp7071_gProject.sourcelink.json

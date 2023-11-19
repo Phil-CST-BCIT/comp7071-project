@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Renter
 {
-    public class Renter
-    {
-        public int Id { get; set; }
-        public string Name { get; set; } = null!;
-        public string Emergency_contact_email { get; set; } = null!;
-        public string Family_doctor_email { get; set; } = null!;
+    public int Id { get; set; }
 
-    }
+    public string? Name { get; set; }
+
+    public string? EmergencyContactEmail { get; set; }
+
+    public string? FamilyDoctorEmail { get; set; }
+
+    public virtual ICollection<MaintenanceRequest> MaintenanceRequests { get; set; } = new List<MaintenanceRequest>();
 }

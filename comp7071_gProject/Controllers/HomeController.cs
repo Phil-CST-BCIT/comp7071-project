@@ -1,8 +1,8 @@
-﻿using comp7071_gProject.Models;
+using comp7071_project.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace comp7071_gProject.Controllers
+namespace comp7071_project.Controllers
 {
     public class HomeController : Controller
     {

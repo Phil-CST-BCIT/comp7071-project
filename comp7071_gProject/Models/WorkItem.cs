@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class WorkItem
 {
-    public class WorkItem
-    {
-        public int Id { get; set; }
-        public MaintenanceRequest MaintenanceRequest { get; set; } = null!;
-        public string Status {  get; set; } = null!;
-    }
+    public int Id { get; set; }
+
+    public int MaintenanceRequestId { get; set; }
+
+    public string? Status { get; set; }
+
+    public virtual MaintenanceRequest MaintenanceRequest { get; set; } = null!;
 }

@@ -1,16 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class MaintenanceRequest
 {
-    public class MaintenanceRequest
-    {
-        public Renter Renter {  get; set; }
-        public Appliance Appliance{ get; set; }
-        public DateTime Date { get; set; }
-        public string Description { get; set; }
+    public int Id { get; set; }
 
-    }
+    public int RenterId { get; set; }
+
+    public int ApplianceId { get; set; }
+
+    public DateTime? Date { get; set; }
+
+    public string? Description { get; set; }
+
+    public virtual Appliance Appliance { get; set; } = null!;
+
+    public virtual ICollection<JobReport> JobReports { get; set; } = new List<JobReport>();
+
+    public virtual Renter Renter { get; set; } = null!;
+
+    public virtual ICollection<WorkItem> WorkItems { get; set; } = new List<WorkItem>();
 }

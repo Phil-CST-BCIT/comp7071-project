@@ -1,14 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class LineItem
 {
-    public class LineItem
-    {
-        public Invoice Invoice { get; set; } = null!;
-        public Service Service { get; set; } = null!;
-        public int Hours { get; set; }
-    }
+    public int ServiceId { get; set; }
+
+    public int InvoiceId { get; set; }
+
+    public int? Hours { get; set; }
+
+    public virtual Invoice Invoice { get; set; } = null!;
+
+    public virtual Service Service { get; set; } = null!;
 }

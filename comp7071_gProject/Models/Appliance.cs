@@ -1,18 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class Appliance
 {
-    public class Appliance
-    {
+    public int Id { get; set; }
 
-        public int Id { get; set; }
-        public string Make {  get; set; } = null!;
+    public string? Make { get; set; }
 
-        public string Model { get; set; } = null!;
+    public string? Model { get; set; }
 
-
-    }
+    public virtual ICollection<MaintenanceRequest> MaintenanceRequests { get; set; } = new List<MaintenanceRequest>();
 }

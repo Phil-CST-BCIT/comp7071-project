@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace MyMVC.Models
+namespace comp7071_project.Models;
+
+public partial class OccupancyHistory
 {
-    public class OccupancyHistory
-    { 
-        public int Id { get; set; }
-        public Asset Asset { get; set; } = null!;
-        public DateTime Start_date {  get; set; }
-        public DateTime End_date { get; set; }
-        public string License_plate { get; set; } = null!;
-    }
+    public int Id { get; set; }
+
+    public int AssetId { get; set; }
+
+    public DateTime? StartDate { get; set; }
+
+    public DateTime? EndDate { get; set; }
+
+    public string? LicensePlate { get; set; }
+
+    public virtual Asset Asset { get; set; } = null!;
 }

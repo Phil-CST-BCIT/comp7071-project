@@ -1,4 +1,4 @@
-namespace comp7071_gProject.Models
+namespace comp7071_project.Models
 {
     public class ErrorViewModel
     {
