@@ -9,6 +9,8 @@ using comp7071_project.Models;
 
 namespace comp7071_project.Controllers
 {
+    [Route("api/Applicant")]
+    [ApiController]
     public class ApplicantController : Controller
     {
         private readonly Comp7071ProjectContext _context;
@@ -59,6 +61,23 @@ namespace comp7071_project.Controllers
             {
                 _context.Add(applicant);
                 await _context.SaveChangesAsync();
+
+                // create a new application for this applicant
+                var application = new Application();
+                application.ApplicantId = applicant.Id;
+
+                // create a new asset for this application
+                var asset = new Asset();
+                asset.Application = application;
+                asset.ApplicationId = application.Id;
+
+                application.AssetId = asset.Id;
+
+                _context.Add(application);
+                _context.Add(asset);
+
+                await _context.SaveChangesAsync();
+                
                 return RedirectToAction(nameof(Index));
             }
             return View(applicant);
