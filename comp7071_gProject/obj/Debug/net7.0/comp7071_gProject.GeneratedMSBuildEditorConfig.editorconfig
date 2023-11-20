@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_gProject
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Applicants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Applicants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Applicants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Applicants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Applicants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_gProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
