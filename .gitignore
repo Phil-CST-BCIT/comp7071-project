@@ -11,3 +11,4 @@ packages/
 *.user
 *.sln.docstates
 *.vs/
+.vs/
