@@ -65,25 +65,29 @@ namespace comp7071_project.Controllers
                 // create a new application for this applicant
                 var application = new Application();
                 application.ApplicantId = applicant.Id;
+                application.Applicant = applicant;
 
                 // create a new asset for this application
                 var asset = new Asset();
+                asset.Status = "Pending";
+                asset.Type = "Apartment";
+                asset.Location = "Toronto";
                 asset.Application = application;
                 asset.ApplicationId = application.Id;
 
                 application.AssetId = asset.Id;
+                application.Asset = asset;
 
                 _context.Add(application);
                 _context.Add(asset);
 
                 await _context.SaveChangesAsync();
-                
+
                 return RedirectToAction(nameof(Index));
             }
             return View(applicant);
         }
 
-        // GET: Applicant/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -99,10 +103,10 @@ namespace comp7071_project.Controllers
             return View(applicant);
         }
 
-        // POST: Applicant/Edit/5
+        // PUT: Applicant/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+        [HttpPut]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Employer,Income")] Applicant applicant)
         {
@@ -134,7 +138,6 @@ namespace comp7071_project.Controllers
             return View(applicant);
         }
 
-        // GET: Applicant/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -152,8 +155,8 @@ namespace comp7071_project.Controllers
             return View(applicant);
         }
 
-        // POST: Applicant/Delete/5
-        [HttpPost, ActionName("Delete")]
+        // DELETE: Applicant/Delete/5
+        [HttpDelete("{id}"), ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
