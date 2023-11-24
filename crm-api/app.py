@@ -35,11 +35,6 @@ def get_database():
    # Create the database for our example (we will use the same database throughout the tutorial
    return client['crm-db']
   
-# This is added so that many files can reuse the function get_database()
-
-
-
-
 app_conf_file = "app_conf.yml"
 log_conf_file = "log_conf.yml"
 
@@ -55,7 +50,6 @@ logger = logging.getLogger('basicLogger')
 logger.info(f"App Conf File: {app_conf_file}")
 logger.info(f"Log Conf File: {log_conf_file}")
 
-# Get the database
 db = get_database()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
@@ -67,4 +61,3 @@ if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
 
 if __name__ == "__main__":
     app.run(port=8100)
-    # app.run(port=8100, debug=False)
