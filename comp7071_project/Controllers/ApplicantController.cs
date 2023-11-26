@@ -20,7 +20,15 @@ namespace comp7071_project.Controllers
             _context = context;
         }
 
-        // GET: Applicant/All
+        /// <summary> 
+        /// This method returns a list of all applicants
+        /// </summary>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// GET: api/Applicant/All
+        /// </example>
+        /// <response code="200">Returns a list of all applicants</response>
+        /// <response code="404">If the list of applicants is empty</response>
         [HttpGet("All")]
         public async Task<IActionResult> All()
         {
@@ -28,7 +36,17 @@ namespace comp7071_project.Controllers
             return Json(new { success = true, message = "Applicants retrieved successfully", data = applicants });
         } 
 
-        // GET: Applicant/{id}
+
+        /// <summary>
+        /// This method returns a specific applicant
+        /// </summary>
+        /// <param name="id">The id of the applicant</param>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// GET: api/Applicant/5
+        /// </example>
+        /// <response code="200">Returns the applicant with the specified id</response>
+        /// <response code="404">If the applicant is null</response>
         [HttpGet("{id}")]
         public async Task<IActionResult> Index(int? id)
         {
@@ -47,10 +65,16 @@ namespace comp7071_project.Controllers
             return Json(new { success = true, message = "Applicant retrieved successfully", data = applicant });
         }
 
-
-        // POST: Applicant/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        /// <summary>
+        /// This method returns a json result of the applicant creation
+        /// </summary>
+        /// <param name="applicant">The person who applies for a rental unit</param>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// POST: api/Applicant/Create
+        /// </example>
+        /// <response code="200">Returns the applicant created</response>
+        /// <response code="400">If the applicant is null</response>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Employer,Income")] Applicant applicant)
@@ -80,17 +104,25 @@ namespace comp7071_project.Controllers
                 _context.Add(asset);
 
                 await _context.SaveChangesAsync();
-                // return json action result
-                return Json(new { success = true, message = "Applicant created successfully" });
+                return Json(new { success = true, message = "Applicant created successfully", data = applicant });
             } else {
                 return Json(new { success = false, message = "Applicant creation failed" });
             }
         }
 
-        // PUT: Applicant/Update/{id}
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPut]
+
+        /// <summary>
+        /// This method returns a json result of the applicant update
+        /// </summary>
+        /// <param name="id">The id of the applicant</param>
+        /// <param name="applicant">The applicant to be updated</param>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// PUT: api/Applicant/Update/5
+        /// </example>
+        /// <response code="200">Returns the applicant updated</response>
+        /// <response code="400">If the applicant is null</response>
+        [HttpPut("{id}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Update(int id, [Bind("Id,Name,Employer,Income")] Applicant applicant)
         {
@@ -127,7 +159,16 @@ namespace comp7071_project.Controllers
             }
         }
 
-        // DELETE: Applicant/Delete/5
+        /// <summary>
+        /// This method returns a json result of the applicant deletion
+        /// </summary>
+        /// <param name="id">The id of the applicant</param>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// DELETE: api/Applicant/Delete/5
+        /// </example>
+        /// <response code="200">Returns the applicant deleted</response>
+        /// <response code="400">If the applicant is null</response>
         [HttpDelete("{id}"), ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
