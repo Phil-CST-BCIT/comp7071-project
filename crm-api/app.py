@@ -1,11 +1,7 @@
-import connexion
-from connexion import NoContent
+from connexion import NoContent, FlaskApp
 import logging.config
 import yaml
-import requests
-from datetime import datetime
 from pymongo import MongoClient
-import os
 
 def get_all_applicants():
     logger.info(f"Request: get_all_applicants")
@@ -57,7 +53,7 @@ logger.info(f"Log Conf File: {log_conf_file}")
 
 db = get_database()
 
-app = connexion.FlaskApp(__name__, specification_dir='')
+app = FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
