@@ -1,33 +1,38 @@
 import connexion
+from connexion import NoContent
 import logging.config
 import yaml
 import requests
 from datetime import datetime
-from flask_cors import CORS, cross_origin
 from pymongo import MongoClient
 import os
 
+def get_all_applicants():
+    logger.info(f"Request: get_all_applicants")
+    applicant_c = db['applicant']
+    res = []
+    for a in applicant_c.find():
+        res.append(
+            {
+                'id': a['id'],
+                'name': a['name'],
+                'employer': a['employer'],
+                'income': a['income'],
+            }
+        )
+    return res, 200
 
-def getAllApplicants(body):
-    pass
-
-def getApplicantDetails(body):
-    pass
-
-def createApplicant(body):
+def create_applicant(body):
+    # db = get_database()
+    logger.info(f"Request: create_applicant: {body}")
     applicant_c = db['applicant']
     applicant_c.insert_one(body)
-
-def editApplicant(body):
-    pass
-
-def deleteApplicant(body):
-    pass
+    return NoContent, 201
 
 def get_database():
  
    # Provide the mongodb atlas url to connect python to mongodb using pymongo
-   CONNECTION_STRING = "mongodb://admin:password@localhost/?authSource=admin"
+   CONNECTION_STRING = "mongodb://admin:password@mongodb/?authSource=admin"
  
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
    client = MongoClient(CONNECTION_STRING)
@@ -53,11 +58,7 @@ logger.info(f"Log Conf File: {log_conf_file}")
 db = get_database()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yml", base_path="/processing", strict_validation=True, validate_responses=True)
-
-if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
-    CORS(app.app)
-    app.app.config['CORS_HEADERS'] = 'Content-Type'
+app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
-    app.run(port=8100)
+    app.run(host='0.0.0.0',port=8100)
