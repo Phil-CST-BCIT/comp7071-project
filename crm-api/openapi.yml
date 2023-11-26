@@ -3,10 +3,10 @@ info:
   title: Applicant API
   version: 1.0.0
 paths:
-  /Applicant:
+  /applicant:
     get:
       summary: Get all applicants
-      operationId: getAllApplicants
+      operationId: app.get_all_applicants
       responses:
         '200':
           description: A list of applicants
@@ -15,83 +15,87 @@ paths:
               schema:
                 type: array
                 items:
-                  $ref: '#/components/schemas/Applicant'
-
-  /Applicant/Details/{id}:
-    get:
-      summary: Get details of an applicant
-      operationId: getApplicantDetails
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: integer
-      responses:
-        '200':
-          description: Details of an applicant
+                  $ref: '#/components/schemas/applicant'
+        '404':
+          description: Not Found
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/Applicant'
-        '404':
-          description: Not found
+                $ref: '#/components/schemas/Message404'
+  # /Applicant/Details/{id}:
+  #   get:
+  #     summary: Get details of an applicant
+  #     operationId: getApplicantDetails
+  #     parameters:
+  #       - name: id
+  #         in: path
+  #         required: true
+  #         schema:
+  #           type: integer
+  #     responses:
+  #       '200':
+  #         description: Details of an applicant
+  #         content:
+  #           application/json:
+  #             schema:
+  #               $ref: '#/components/schemas/Applicant'
+  #       '404':
+  #         description: Not found
 
-  /Applicant/Create:
-    post:
-      summary: Create a new applicant
-      operationId: createApplicant
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/Applicant'
-      responses:
-        '201':
-          description: Applicant created
+  # /Applicant/Create:
+  #   post:
+  #     summary: Create a new applicant
+  #     operationId: createApplicant
+  #     requestBody:
+  #       required: true
+  #       content:
+  #         application/json:
+  #           schema:
+  #             $ref: '#/components/schemas/Applicant'
+  #     responses:
+  #       '201':
+  #         description: Applicant created
 
-  /Applicant/Edit/{id}:
-    post:
-      summary: Edit an existing applicant
-      operationId: editApplicant
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: integer
-      requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/Applicant'
-      responses:
-        '200':
-          description: Applicant updated
-        '404':
-          description: Not found
+  # /Applicant/Edit/{id}:
+  #   post:
+  #     summary: Edit an existing applicant
+  #     operationId: editApplicant
+  #     parameters:
+  #       - name: id
+  #         in: path
+  #         required: true
+  #         schema:
+  #           type: integer
+  #     requestBody:
+  #       required: true
+  #       content:
+  #         application/json:
+  #           schema:
+  #             $ref: '#/components/schemas/Applicant'
+  #     responses:
+  #       '200':
+  #         description: Applicant updated
+  #       '404':
+  #         description: Not found
 
-  /Applicant/Delete/{id}:
-    delete:
-      summary: Delete an applicant
-      operationId: deleteApplicant
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: integer
-      responses:
-        '200':
-          description: Applicant deleted
-        '404':
-          description: Not found
-
+  # /Applicant/Delete/{id}:
+  #   delete:
+  #     summary: Delete an applicant
+  #     operationId: deleteApplicant
+  #     parameters:
+  #       - name: id
+  #         in: path
+  #         required: true
+  #         schema:
+  #           type: integer
+  #     responses:
+  #       '200':
+  #         description: Applicant deleted
+  #       '404':
+  #         description: Not found
 components:
   schemas:
-    Applicant:
+    applicant:
       type: object
       properties:
         Id:
@@ -102,3 +106,8 @@ components:
           type: string
         Income:
           type: number
+    Message404:
+      type: object
+      properties:
+        message:
+          type: string
