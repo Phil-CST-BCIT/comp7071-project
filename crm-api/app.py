@@ -32,10 +32,10 @@ def create_applicant(body):
 def get_database():
  
    # Provide the mongodb atlas url to connect python to mongodb using pymongo
-   CONNECTION_STRING = "mongodb://admin:password@mongodb/?authSource=admin"
+   connection_str = f"mongodb://{app_config['datastore']['user']}:{app_config['datastore']['password']}@{app_config['datastore']['hostname']}/?authSource={app_config['datastore']['authSource']}"
  
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
-   client = MongoClient(CONNECTION_STRING)
+   client = MongoClient(connection_str)
  
    # Create the database for our example (we will use the same database throughout the tutorial
    return client['crm-db']
