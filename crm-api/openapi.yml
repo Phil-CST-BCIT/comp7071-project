@@ -22,6 +22,22 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Message404'
+    post:
+      summary: Create a new applicant
+      operationId: app.create_applicant
+      responses:
+        '201':
+          description: Created
+        '400':
+          description: 'invalid input, object invalid'
+        '409':
+          description: an existing item already exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/applicant'
+        description: Train Route item to add
   # /Applicant/Details/{id}:
   #   get:
   #     summary: Get details of an applicant
