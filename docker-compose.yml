@@ -6,7 +6,7 @@ services:
       dockerfile: Dockerfile
     image: crmapi
     ports:
-      - 8100
+      - 8100:8100
     hostname: crm-api
     networks:
       - comp7071
