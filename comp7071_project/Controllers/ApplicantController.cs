@@ -9,7 +9,7 @@ using comp7071_project.Models;
 
 namespace comp7071_project.Controllers
 {
-    [Route("api/Applicant")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ApplicantController : Controller
     {
@@ -20,14 +20,17 @@ namespace comp7071_project.Controllers
             _context = context;
         }
 
-        // GET: Applicant
-        public async Task<IActionResult> Index()
+        // GET: Applicant/All
+        [HttpGet("All")]
+        public async Task<IActionResult> All()
         {
-            return View(await _context.Applicants.ToListAsync());
-        }
+            var applicants = await _context.Applicants.ToListAsync();
+            return Json(new { success = true, message = "Applicants retrieved successfully", data = applicants });
+        } 
 
-        // GET: Applicant/Details/5
-        public async Task<IActionResult> Details(int? id)
+        // GET: Applicant/{id}
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Index(int? id)
         {
             if (id == null)
             {
@@ -41,14 +44,9 @@ namespace comp7071_project.Controllers
                 return NotFound();
             }
 
-            return View(applicant);
+            return Json(new { success = true, message = "Applicant retrieved successfully", data = applicant });
         }
 
-        // GET: Applicant/Create
-        public IActionResult Create()
-        {
-            return View();
-        }
 
         // POST: Applicant/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
@@ -82,33 +80,19 @@ namespace comp7071_project.Controllers
                 _context.Add(asset);
 
                 await _context.SaveChangesAsync();
-
-                return RedirectToAction(nameof(Index));
+                // return json action result
+                return Json(new { success = true, message = "Applicant created successfully" });
+            } else {
+                return Json(new { success = false, message = "Applicant creation failed" });
             }
-            return View(applicant);
         }
 
-        public async Task<IActionResult> Edit(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var applicant = await _context.Applicants.FindAsync(id);
-            if (applicant == null)
-            {
-                return NotFound();
-            }
-            return View(applicant);
-        }
-
-        // PUT: Applicant/Edit/5
+        // PUT: Applicant/Update/{id}
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPut]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Employer,Income")] Applicant applicant)
+        public async Task<IActionResult> Update(int id, [Bind("Id,Name,Employer,Income")] Applicant applicant)
         {
             if (id != applicant.Id)
             {
@@ -133,26 +117,14 @@ namespace comp7071_project.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(applicant);
-        }
 
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
+                // return json action result
+                return Json(new { success = true, message = "Applicant updated successfully" });
+            }
+            else
             {
-                return NotFound();
+                return Json(new { success = false, message = "Applicant update failed" });
             }
-
-            var applicant = await _context.Applicants
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (applicant == null)
-            {
-                return NotFound();
-            }
-
-            return View(applicant);
         }
 
         // DELETE: Applicant/Delete/5
@@ -167,7 +139,8 @@ namespace comp7071_project.Controllers
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            
+            return Json(new { success = true, message = "Applicant deleted successfully" });
         }
 
         private bool ApplicantExists(int id)
