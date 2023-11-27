@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {}
+    "C:\\Users\\bkwan\\Desktop\\BCIT\\BScACS\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {}
   },
   "projects": {
-    "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {
+    "C:\\Users\\bkwan\\Desktop\\BCIT\\BScACS\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
+        "projectUniqueName": "C:\\Users\\bkwan\\Desktop\\BCIT\\BScACS\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
         "projectName": "comp7071_project",
-        "projectPath": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
-        "packagesPath": "C:\\Users\\BeeWang-9i23\\.nuget\\packages\\",
-        "outputPath": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\obj\\",
+        "projectPath": "C:\\Users\\bkwan\\Desktop\\BCIT\\BScACS\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
+        "packagesPath": "C:\\Users\\bkwan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bkwan\\Desktop\\BCIT\\BScACS\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BeeWang-9i23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bkwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -66,6 +70,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

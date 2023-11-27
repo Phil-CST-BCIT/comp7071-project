@@ -95,7 +95,6 @@ namespace comp7071_project.Controllers
                 asset.Type = "Apartment";
                 asset.Location = "Toronto";
                 asset.Application = application;
-                asset.ApplicationId = application.Id;
 
                 application.AssetId = asset.Id;
                 application.Asset = asset;

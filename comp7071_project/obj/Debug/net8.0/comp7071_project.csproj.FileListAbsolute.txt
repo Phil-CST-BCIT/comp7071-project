@@ -260,3 +260,800 @@ C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project2\comp70
 C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project2\comp7071_project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project2\comp7071_project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project2\comp7071_project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.staticwebassets.runtime.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.exe
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.deps.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.runtimeconfig.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.pdb
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Core.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Humanizer.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.AssemblyReference.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfoInputs.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfo.cs
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CoreCompileInputs.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cs
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.sourcelink.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.comp7071_project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.build.comp7071_project.props
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.comp7071_project.props
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.comp7071_project.props
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\bundle\comp7071_project.styles.css
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\projectbundle\comp7071_project.bundle.scp.css
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CopyComplete
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\refint\comp7071_project.dll
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.pdb
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.genruntimeconfig.cache
+C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\ref\comp7071_project.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.Development.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.staticwebassets.runtime.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.exe
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.deps.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.runtimeconfig.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.pdb
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Core.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Identity.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Humanizer.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Common.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.CodeDom.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.AssemblyReference.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfoInputs.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfo.cs
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CoreCompileInputs.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.MvcApplicationPartsAssemblyInfo.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cs
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.sourcelink.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.comp7071_project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.build.comp7071_project.props
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.comp7071_project.props
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.comp7071_project.props
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\bundle\comp7071_project.styles.css
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\projectbundle\comp7071_project.bundle.scp.css
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CopyComplete
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\refint\comp7071_project.dll
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.pdb
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.genruntimeconfig.cache
+C:\mFolder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\ref\comp7071_project.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.AssemblyReference.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfoInputs.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.AssemblyInfo.cs
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CoreCompileInputs.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.RazorAssemblyInfo.cs
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.sourcelink.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\refint\comp7071_project.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.pdb
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\appsettings.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.staticwebassets.runtime.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.exe
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.deps.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.runtimeconfig.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\comp7071_project.pdb
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.comp7071_project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.build.comp7071_project.props
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.comp7071_project.props
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.comp7071_project.props
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\bundle\comp7071_project.styles.css
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\scopedcss\projectbundle\comp7071_project.bundle.scp.css
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.csproj.CopyComplete
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\comp7071_project.genruntimeconfig.cache
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\obj\Debug\net8.0\ref\comp7071_project.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = comp7071_project
 build_property.RootNamespace = comp7071_project
-build_property.ProjectDir = C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project\
+build_property.ProjectDir = C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Misc. Folder\BCIT\BScASC\Semesters\2023Fall\COMP7071\comp7071-project\comp7071_project
+build_property.MSBuildProjectDirectory = C:\Users\bkwan\Desktop\BCIT\BScACS\2023Fall\COMP7071\comp7071-project\comp7071_project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Create.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Delete.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Details.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Edit.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Index.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Applicant/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Home/Index.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Home/Privacy.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/Error.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/_ViewImports.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/_ViewStart.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Misc. Folder/BCIT/BScASC/Semesters/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/_Layout.cshtml]
+[C:/Users/bkwan/Desktop/BCIT/BScACS/2023Fall/COMP7071/comp7071-project/comp7071_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ca3ohcr99a
