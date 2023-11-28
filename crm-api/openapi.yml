@@ -133,6 +133,75 @@ components:
           type: string
         relationship:
           type: string
+    asset:
+      type: object
+      properties:
+        id:
+          type: integer
+        asset_type:
+          type: string
+        status:
+          type: string
+        location:
+          type: string
+        occupancy_history:
+          type: array
+          items:
+            $ref: '#/components/schemas/occupancy'
+        rent_history:
+          type: array
+          items:
+            $ref: '#/components/schemas/rent'
+        damage_history:
+          type: array
+          items:
+            $ref: '#/components/schemas/damage'
+        appliances:
+          type: array
+          items:
+            $ref: '#/components/schemas/appliance'
+    occupancy:
+      type: object
+      properties:
+        id:
+          type: integer
+        start_date:
+          type: string
+          format: date
+        end_date:
+          type: string
+          format: date
+        license_plate:
+          type: string
+    rent:
+      type: object
+      properties:
+        id:
+          type: integer
+        change_date:
+          type: string
+          format: date
+        amount:
+          type: number
+    damage:
+      type: object
+      properties:
+        id:
+          type: integer
+        description:
+          type: string
+        date_reported:
+          type: string
+          format: date
+    appliance:
+      type: object
+      properties:
+        id:
+          type: integer
+        brand:
+          type: string
+        model:
+          type: string
     Message404:
       type: object
       properties:
