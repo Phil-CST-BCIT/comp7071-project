@@ -29,7 +29,7 @@ def get_database():
  
    # Provide the mongodb atlas url to connect python to mongodb using pymongo
    connection_str = f"mongodb://{app_config['datastore']['user']}:{app_config['datastore']['password']}@{app_config['datastore']['hostname']}/?authSource={app_config['datastore']['authSource']}"
- 
+   logger.info(f"Connecting to: {connection_str}")
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
    client = MongoClient(connection_str)
  
