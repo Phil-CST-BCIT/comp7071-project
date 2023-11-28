@@ -122,6 +122,17 @@ components:
           type: string
         income:
           type: number
+        reference:
+          $ref: '#/components/schemas/reference'
+    reference:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        relationship:
+          type: string
     Message404:
       type: object
       properties:
