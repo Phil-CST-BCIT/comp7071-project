@@ -114,13 +114,13 @@ components:
     applicant:
       type: object
       properties:
-        Id:
+        id:
           type: integer
-        Name:
+        name:
           type: string
-        Employer:
+        employer:
           type: string
-        Income:
+        income:
           type: number
     Message404:
       type: object
