@@ -52,11 +52,6 @@ paths:
       responses:
         '200':
           description: An applicant
-      requestBody:
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/applicant'
     put:
       summary: Update an applicant by ID
       operationId: app.update_applicant_by_id
@@ -82,6 +77,83 @@ paths:
             type: integer
             minimum: 1
           description: The applicant ID
+      responses:
+        '204':
+          description: Deleted
+  /asset:
+    get:
+      summary: Get all assets
+      operationId: app.get_all_assets
+      responses:
+        '200':
+          description: A list of assets
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/asset'
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Message404'
+    post:
+      summary: Create a new asset
+      operationId: app.create_asset
+      responses:
+        '201':
+          description: Created
+        '400':
+          description: 'invalid input, object invalid'
+        '409':
+          description: an existing item already exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/asset'
+  /asset/{id}:
+    get:
+      summary: Get an asset by ID
+      operationId: app.get_asset_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+      responses:
+        '200':
+          description: An asset
+    put:
+      summary: Update an asset by ID
+      operationId: app.update_asset_by_id
+      responses:
+        '200':
+          description: Updated
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+    delete:
+      summary: Delete an asset by ID
+      operationId: app.delete_asset_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
       responses:
         '204':
           description: Deleted

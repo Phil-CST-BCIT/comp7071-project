@@ -62,6 +62,63 @@ def delete_applicant_by_id(id):
     applicant_c.delete_one({'id': id})
     return NoContent, 204
 
+def get_all_assets():
+    logger.info(f"Request: get_all_assets")
+    asset_c = db['asset']
+    res = []
+    for a in asset_c.find():
+        res.append(
+            {
+                'id': a['id'],
+                'asset_type': a['asset_type'],
+                'status': a['status'],
+                'location': a['location'],
+                'occupancy_history': a['occupancy_history'],
+                'rent_history': a['rent_history'],
+                'damage_history': a['damage_history'],
+                'appliances': a['appliances'],
+            }
+        )
+    return res, 200
+
+def create_asset(body):
+    # db = get_database()
+    logger.info(f"Request: create_asset: {body}")
+    asset_c = db['asset']
+    asset_c.insert_one(body)
+    return NoContent, 201
+
+def get_asset_by_id(id):
+    logger.info(f"Request: get_asset_by_id: {id}")
+    asset_c = db['asset']
+    found = asset_c.find_one({'id': id})
+    status = 404
+    res = {"message": f"Asset not found, id: {id}"}
+
+    if found:
+        res = {
+                'id': found['id'],
+                'asset_type': found['asset_type'],
+                'status': found['status'],
+                'location': found['location'],
+                # 'occupancy_history': found['occupancy_history'],
+                # 'rent_history': found['rent_history'],
+                # 'damage_history': found['damage_history'],
+                # 'appliances': found['appliances'],
+            }
+        status = 200
+    return res, status
+
+def update_asset_by_id(id, body):
+    logger.info(f"Request: update_asset_by_id: {id}, {body}")
+    asset_c = db['asset']
+    res = asset_c.update_one({'id': id}, {'$set': body})
+    status = 404
+    if res.modified_count == 1:
+        status = 200
+    else:
+        res = {"message": f"Applicant not found, id: {id}"}
+    return res, status
     
 
 def get_database():
@@ -96,4 +153,6 @@ app = FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
+    logger.info(f"Running App")
+
     app.run(host='0.0.0.0',port=8100)
