@@ -37,7 +37,54 @@ paths:
           application/json:
             schema:
               $ref: '#/components/schemas/applicant'
-        description: Train Route item to add
+  /applicant/{id}:
+    get:
+      summary: Get an applicant by ID
+      operationId: app.get_applicant_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        '200':
+          description: An applicant
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/applicant'
+    put:
+      summary: Update an applicant by ID
+      operationId: app.update_applicant_by_id
+      responses:
+        '200':
+          description: Updated
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+    delete:
+      summary: Delete an applicant by ID
+      operationId: app.delete_applicant_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        '204':
+          description: Deleted
   # /Applicant/Details/{id}:
   #   get:
   #     summary: Get details of an applicant

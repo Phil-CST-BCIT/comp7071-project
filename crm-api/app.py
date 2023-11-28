@@ -14,6 +14,7 @@ def get_all_applicants():
                 'name': a['name'],
                 'employer': a['employer'],
                 'income': a['income'],
+                'reference': a['reference'],
             }
         )
     return res, 200
@@ -24,6 +25,44 @@ def create_applicant(body):
     applicant_c = db['applicant']
     applicant_c.insert_one(body)
     return NoContent, 201
+
+def get_applicant_by_id(id):
+    logger.info(f"Request: get_applicant_by_id: {id}")
+    applicant_c = db['applicant']
+    found = applicant_c.find_one({'id': id})
+    status = 404
+    res = {"message": f"Applicant not found, id: {id}"}
+
+    if found:
+        res = {
+                'id': found['id'],
+                'name': found['name'],
+                'employer': found['employer'],
+                'income': found['income'],
+                'reference': found['reference'],
+            }
+        status = 200
+    return res, status
+    
+def update_applicant_by_id(id, body):
+    logger.info(f"Request: update_applicant_by_id: {id}, {body}")
+    applicant_c = db['applicant']
+    res = applicant_c.update_one({'id': id}, {'$set': body})
+    status = 404
+    if res.modified_count == 1:
+        status = 200
+    else:
+        res = {"message": f"Applicant not found, id: {id}"}
+    return res, status
+
+def delete_applicant_by_id(id):
+    logger.info(f"Request: delete_applicant_by_id: {id}")
+    applicant_c = db['applicant']
+    
+    applicant_c.delete_one({'id': id})
+    return NoContent, 204
+
+    
 
 def get_database():
  
