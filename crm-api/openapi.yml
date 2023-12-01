@@ -157,6 +157,21 @@ paths:
       responses:
         '204':
           description: Deleted
+  /asset/{id}/applicants:
+    get:
+      summary: Get all applicants for an asset
+      operationId: app.get_all_applicants_by_asset_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+      responses:
+        '200':
+          description: A list of applicants
 components:
   schemas:
     applicant:

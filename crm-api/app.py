@@ -69,6 +69,7 @@ def get_all_assets():
     asset_c = db['asset']
     res = []
     for a in asset_c.find():
+        logger.debug(f"Request: get_all_assets: {a}")
         res.append(
             {
                 'id': a['id'],
@@ -94,6 +95,8 @@ def get_asset_by_id(id):
     logger.info(f"Request: get_asset_by_id: {id}")
     asset_c = db['asset']
     found = asset_c.find_one({'id': id})
+    logger.info(f"Request: get_asset_by_id after found: {id} {found}")
+
     status = 404
     res = {"message": f"Asset not found, id: {id}"}
 
@@ -109,6 +112,7 @@ def get_asset_by_id(id):
                 'appliances': found['appliances'],
             }
         status = 200
+    logger.info(f"Request: get_asset_by_id after found res assignment: {id}")
     return res, status
 
 def update_asset_by_id(id, body):
@@ -128,6 +132,23 @@ def delete_asset_by_id(id):
     
     asset_c.delete_one({'id': id})
     return NoContent, 204    
+
+def get_all_applicants_by_asset_id(id):
+    logger.info(f"Request: get_all_applicants_by_asset_id: {id}")
+    applicant_c = db['applicant']
+    res = []
+    for a in applicant_c.find({'asset_id': id}):
+        res.append(
+            {
+                'id': a['id'],
+                'name': a['name'],
+                'employer': a['employer'],
+                'income': a['income'],
+                'asset_id': a['asset_id'],
+                'reference': a['reference'],
+            }
+        )
+    return res, 200
 
 def get_database():
  
