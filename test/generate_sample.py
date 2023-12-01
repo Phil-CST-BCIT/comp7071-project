@@ -42,6 +42,7 @@ def generate_applicant_sample_data(asset_ids):
         "name": fake.name(),
         "employer": fake.company(),
         "income": round(random.uniform(1000, 10000), 2),
+        "asset_id": fake.random_element(elements=asset_ids),
         "reference": {
             "id": random.randint(1, 1000),
             "name": fake.name(),
