@@ -18,3 +18,21 @@ for record in data:
         print("POST request successful")
     else:
         print("POST request failed")
+
+
+endpoint_url = "http://localhost:8100/applicant"
+
+with open("./test/sample_applicant_data.json") as file:
+    data = json.load(file)
+
+# Iterate over each record in the JSON data
+for record in data:
+    # Make a POST request with the record to the endpoint
+    response = requests.post(endpoint_url, json=record)
+
+    # Check the response status code
+    if response.status_code == 201:
+        print("POST request successful")
+    else:
+        print("POST request failed")
+
