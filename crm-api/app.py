@@ -101,10 +101,10 @@ def get_asset_by_id(id):
                 'asset_type': found['asset_type'],
                 'status': found['status'],
                 'location': found['location'],
-                # 'occupancy_history': found['occupancy_history'],
-                # 'rent_history': found['rent_history'],
-                # 'damage_history': found['damage_history'],
-                # 'appliances': found['appliances'],
+                'occupancy_history': found['occupancy_history'],
+                'rent_history': found['rent_history'],
+                'damage_history': found['damage_history'],
+                'appliances': found['appliances'],
             }
         status = 200
     return res, status
