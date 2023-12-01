@@ -16,12 +16,6 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/applicant'
-        '404':
-          description: Not Found
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Message404'
     post:
       summary: Create a new applicant
       operationId: app.create_applicant
@@ -29,9 +23,9 @@ paths:
         '201':
           description: Created
         '400':
-          description: 'invalid input, object invalid'
+          description: Invalid input, object invalid
         '409':
-          description: an existing item already exists
+          description: An existing item already exists
       requestBody:
         content:
           application/json:
@@ -108,12 +102,6 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/asset'
-        '404':
-          description: Not Found
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Message404'
     post:
       summary: Create a new asset
       operationId: app.create_asset
@@ -121,9 +109,9 @@ paths:
         '201':
           description: Created
         '400':
-          description: 'invalid input, object invalid'
+          description: Invalid input, object invalid
         '409':
-          description: an existing item already exists
+          description: An existing item already exists
       requestBody:
         content:
           application/json:
