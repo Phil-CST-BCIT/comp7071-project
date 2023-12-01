@@ -170,6 +170,8 @@ components:
           type: string
         income:
           type: number
+        asset_id:
+          type: integer
         reference:
           $ref: '#/components/schemas/reference'
     reference:
