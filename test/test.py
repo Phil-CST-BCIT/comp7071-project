@@ -1,38 +1,30 @@
 import json
 import requests
 
-# Define the endpoint URL
-endpoint_url = "http://localhost:8100/asset"
+if __name__ == "__main__":
+    endpoint_url = "http://localhost:8100/asset"
 
-# Open the JSON file
-with open("./test/sample_asset_data.json") as file:
-    data = json.load(file)
+    with open("./test/sample_asset_data.json") as file:
+        data = json.load(file)
 
-# Iterate over each record in the JSON data
-for record in data:
-    # Make a POST request with the record to the endpoint
-    response = requests.post(endpoint_url, json=record)
+    for record in data:
+        response = requests.post(endpoint_url, json=record)
 
-    # Check the response status code
-    if response.status_code == 201:
-        print("POST request successful")
-    else:
-        print("POST request failed")
+        if response.status_code == 201:
+            print("POST request successful")
+        else:
+            print("POST request failed")
 
 
-endpoint_url = "http://localhost:8100/applicant"
+    endpoint_url = "http://localhost:8100/applicant"
 
-with open("./test/sample_applicant_data.json") as file:
-    data = json.load(file)
+    with open("./test/sample_applicant_data.json") as file:
+        data = json.load(file)
 
-# Iterate over each record in the JSON data
-for record in data:
-    # Make a POST request with the record to the endpoint
-    response = requests.post(endpoint_url, json=record)
+    for record in data:
+        response = requests.post(endpoint_url, json=record)
 
-    # Check the response status code
-    if response.status_code == 201:
-        print("POST request successful")
-    else:
-        print("POST request failed")
-
+        if response.status_code == 201:
+            print("POST request successful")
+        else:
+            print("POST request failed")
