@@ -119,7 +119,13 @@ def update_asset_by_id(id, body):
     else:
         res = {"message": f"Applicant not found, id: {id}"}
     return res, status
+
+def delete_asset_by_id(id):
+    logger.info(f"Request: delete_asset_by_id: {id}")
+    asset_c = db['asset']
     
+    asset_c.delete_one({'id': id})
+    return NoContent, 204    
 
 def get_database():
  
