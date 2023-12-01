@@ -12,7 +12,7 @@ def generate_asset_sample_data():
         "asset_type": r_asset_type,
         "status": fake.random_element(elements=('available', 'rented', 'damaged')),
         "location": fake.address(),
-        "occupance_history": [{
+        "occupancy_history": [{
             "id": random.randint(1, 100),
             "start_date": fake.date(),
             "end_date": fake.date(),
