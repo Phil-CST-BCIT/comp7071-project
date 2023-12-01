@@ -53,12 +53,12 @@ def get_applicant_by_id(id):
 def update_applicant_by_id(id, body):
     logger.info(f"Request: update_applicant_by_id: {id}, {body}")
     applicant_c = db["applicant"]
-    res = applicant_c.update_one({"id": id}, {"$set": body})
+    updated = applicant_c.update_one({"id": id}, {"$set": body})
     status = 404
-    if res.modified_count == 1:
+    res = {"message": f"Applicant not found, id: {id}"}
+    if updated.matched_count > 0:
         status = 200
-    else:
-        res = {"message": f"Applicant not found, id: {id}"}
+        res = NoContent
     return res, status
 
 
@@ -152,12 +152,12 @@ def get_asset_by_id(id):
 def update_asset_by_id(id, body):
     logger.info(f"Request: update_asset_by_id: {id}, {body}")
     asset_c = db["asset"]
-    res = asset_c.update_one({"id": id}, {"$set": body})
-    status = 404
-    if res.modified_count == 1:
+    updated = asset_c.update_one({"id": id}, {"$set": body})
+    status = 404    
+    res = {"message": f"Asset not found, id: {id}"}
+    if updated.matched_count > 0:
         status = 200
-    else:
-        res = {"message": f"Applicant not found, id: {id}"}
+        res = NoContent
     return res, status
 
 

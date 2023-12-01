@@ -52,6 +52,11 @@ paths:
       responses:
         "200":
           description: Updated
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/applicant"
       parameters:
         - in: path
           name: id
@@ -138,6 +143,11 @@ paths:
       responses:
         "200":
           description: Updated
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/applicant"
       parameters:
         - in: path
           name: id
