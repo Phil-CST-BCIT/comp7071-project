@@ -6,3 +6,5 @@ datastore:
   port: 27017
   db: crm-api
   authSource: "admin"
+app:
+  port: 8100
