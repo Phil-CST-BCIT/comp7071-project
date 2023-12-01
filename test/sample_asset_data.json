@@ -1,0 +1,1392 @@
+[
+    {
+        "id": 11,
+        "asset_type": "house",
+        "status": "available",
+        "location": "11537 Steven Stravenue\nNew Katherine, MT 33348",
+        "occupance_history": [
+            {
+                "id": 39,
+                "start_date": "2012-10-27",
+                "end_date": "1995-04-10",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 64,
+                "start_date": "2006-12-30",
+                "end_date": "1973-12-29",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 71,
+                "start_date": "1995-02-21",
+                "end_date": "2019-09-05",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 97,
+                "start_date": "1995-01-05",
+                "end_date": "1971-02-14",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 44,
+                "start_date": "1986-01-01",
+                "end_date": "2017-12-03",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 17,
+                "start_date": "1996-08-23",
+                "end_date": "1997-09-17",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 41,
+                "start_date": "2022-06-27",
+                "end_date": "1988-12-02",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 71,
+                "start_date": "2016-07-29",
+                "end_date": "1978-02-04",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 35,
+                "start_date": "2001-01-30",
+                "end_date": "1999-10-15",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 36,
+                "start_date": "1987-10-23",
+                "end_date": "2023-08-05",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 85,
+                "change_date": "1999-04-14",
+                "amount": 1918.56
+            },
+            {
+                "id": 87,
+                "change_date": "2004-10-14",
+                "amount": 1698.71
+            },
+            {
+                "id": 47,
+                "change_date": "1998-02-14",
+                "amount": 1603.91
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 40,
+                "description": "Few free lay front experience true. Successful sell hundred cause increase. Know three glass under.",
+                "date_reported": "2019-12-05"
+            },
+            {
+                "id": 31,
+                "description": "Back office election career.",
+                "date_reported": "1972-12-09"
+            },
+            {
+                "id": 34,
+                "description": "Child whole away employee program. Even whatever yard choose.",
+                "date_reported": "1998-03-18"
+            },
+            {
+                "id": 11,
+                "description": "Administration report mean current. Us baby do college. Movie fill ago always allow fine.",
+                "date_reported": "1980-10-17"
+            },
+            {
+                "id": 2,
+                "description": "Quite special increase when.\nLife improve sport lose wish black. Everyone market well budget.",
+                "date_reported": "1988-04-07"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 23,
+                "brand": "Caldwell LLC",
+                "model": "Model Z"
+            },
+            {
+                "id": 11,
+                "brand": "Pearson LLC",
+                "model": "Model X"
+            },
+            {
+                "id": 87,
+                "brand": "Evans, Jones and Freeman",
+                "model": "Model Y"
+            },
+            {
+                "id": 3,
+                "brand": "Garcia-Clark",
+                "model": "Model Z"
+            },
+            {
+                "id": 77,
+                "brand": "Harris PLC",
+                "model": "Model Y"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "asset_type": "house",
+        "status": "damaged",
+        "location": "1536 Dana Unions Suite 272\nPort Lawrencemouth, HI 38873",
+        "occupance_history": [
+            {
+                "id": 91,
+                "start_date": "1987-06-23",
+                "end_date": "1976-06-07",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 84,
+                "start_date": "2014-03-13",
+                "end_date": "1986-06-25",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 20,
+                "start_date": "1970-01-14",
+                "end_date": "2023-03-08",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 23,
+                "start_date": "1992-07-19",
+                "end_date": "1988-03-04",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 18,
+                "start_date": "1979-10-19",
+                "end_date": "1996-01-18",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 97,
+                "start_date": "1985-03-09",
+                "end_date": "1998-05-16",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 78,
+                "start_date": "1996-04-16",
+                "end_date": "1983-06-17",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 95,
+                "start_date": "1973-01-01",
+                "end_date": "2015-02-21",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 65,
+                "start_date": "2001-07-07",
+                "end_date": "2013-03-15",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 72,
+                "start_date": "1992-09-10",
+                "end_date": "1987-09-26",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 79,
+                "change_date": "2018-09-26",
+                "amount": 1977.3
+            },
+            {
+                "id": 65,
+                "change_date": "2020-01-08",
+                "amount": 275.99
+            },
+            {
+                "id": 80,
+                "change_date": "1976-05-07",
+                "amount": 193.41
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 81,
+                "description": "Picture right late sport very minute other. News certain mind actually.",
+                "date_reported": "2013-02-08"
+            },
+            {
+                "id": 77,
+                "description": "Use direction herself trade especially player as. Occur time soldier despite.",
+                "date_reported": "1990-06-08"
+            },
+            {
+                "id": 30,
+                "description": "Candidate a paper term. Dinner first because air I travel Democrat single.",
+                "date_reported": "2013-06-06"
+            },
+            {
+                "id": 40,
+                "description": "Who project parent yet suggest together. On them each nation.",
+                "date_reported": "1994-08-01"
+            },
+            {
+                "id": 4,
+                "description": "Word forget fly. Have question young like employee big.",
+                "date_reported": "2022-10-23"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 60,
+                "brand": "Harris, Flores and Riley",
+                "model": "Model X"
+            },
+            {
+                "id": 32,
+                "brand": "Richardson Group",
+                "model": "Model X"
+            },
+            {
+                "id": 17,
+                "brand": "Weaver, Campbell and Hoffman",
+                "model": "Model X"
+            },
+            {
+                "id": 83,
+                "brand": "Johnson Ltd",
+                "model": "Model X"
+            },
+            {
+                "id": 2,
+                "brand": "Sexton, Barber and Roberts",
+                "model": "Model Y"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "asset_type": "apartment",
+        "status": "rented",
+        "location": "02753 Campbell Square Suite 924\nCampbellfurt, AS 53167",
+        "occupance_history": [
+            {
+                "id": 71,
+                "start_date": "1981-03-04",
+                "end_date": "1991-10-22",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 55,
+                "start_date": "1990-12-20",
+                "end_date": "2010-09-05",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 49,
+                "start_date": "1983-10-23",
+                "end_date": "2013-09-29",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 87,
+                "start_date": "1992-10-04",
+                "end_date": "2022-11-26",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 97,
+                "start_date": "1996-04-17",
+                "end_date": "1972-10-21",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 97,
+                "start_date": "1988-10-09",
+                "end_date": "2014-05-19",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 82,
+                "start_date": "1979-12-20",
+                "end_date": "1987-09-08",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 58,
+                "start_date": "2015-12-09",
+                "end_date": "1982-01-25",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 58,
+                "start_date": "1988-07-05",
+                "end_date": "2011-06-05",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 18,
+                "start_date": "1999-12-01",
+                "end_date": "1971-07-21",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 9,
+                "change_date": "2009-04-25",
+                "amount": 1919.46
+            },
+            {
+                "id": 72,
+                "change_date": "1998-03-28",
+                "amount": 1540.89
+            },
+            {
+                "id": 2,
+                "change_date": "2016-05-20",
+                "amount": 433.11
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 44,
+                "description": "Experience cost toward product already nearly affect health. Chance wear student consider use when.",
+                "date_reported": "1974-01-09"
+            },
+            {
+                "id": 33,
+                "description": "Decision knowledge member page very. Worry war decision fly.",
+                "date_reported": "2000-03-07"
+            },
+            {
+                "id": 14,
+                "description": "According huge fire. Affect address instead increase color.",
+                "date_reported": "2009-04-04"
+            },
+            {
+                "id": 81,
+                "description": "During TV Mrs want. Term question make.",
+                "date_reported": "2018-03-20"
+            },
+            {
+                "id": 63,
+                "description": "Include drop almost available tonight cover. Nature anyone skill beyond.",
+                "date_reported": "1970-04-14"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 16,
+                "brand": "Wilson-Miller",
+                "model": "Model Y"
+            },
+            {
+                "id": 48,
+                "brand": "Ross, Caldwell and Cole",
+                "model": "Model Y"
+            },
+            {
+                "id": 11,
+                "brand": "Reed-Young",
+                "model": "Model Z"
+            },
+            {
+                "id": 98,
+                "brand": "Carter, Thornton and Collins",
+                "model": "Model Z"
+            },
+            {
+                "id": 77,
+                "brand": "Schwartz, Rodriguez and Leach",
+                "model": "Model Z"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "asset_type": "house",
+        "status": "rented",
+        "location": "656 Ryan Drive\nCrosbyburgh, CT 84137",
+        "occupance_history": [
+            {
+                "id": 16,
+                "start_date": "1985-05-05",
+                "end_date": "1990-12-03",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 59,
+                "start_date": "2012-01-29",
+                "end_date": "1991-08-14",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 52,
+                "start_date": "1972-09-18",
+                "end_date": "1992-02-24",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 99,
+                "start_date": "2021-05-23",
+                "end_date": "1974-10-10",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 60,
+                "start_date": "1973-02-07",
+                "end_date": "1976-08-11",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 32,
+                "start_date": "2012-07-07",
+                "end_date": "1995-08-09",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 85,
+                "start_date": "1977-12-22",
+                "end_date": "2018-06-24",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 60,
+                "start_date": "2000-10-04",
+                "end_date": "2023-06-18",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 27,
+                "start_date": "2011-03-28",
+                "end_date": "1972-11-15",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 64,
+                "start_date": "1998-09-19",
+                "end_date": "1987-05-22",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 50,
+                "change_date": "1986-04-02",
+                "amount": 381.22
+            },
+            {
+                "id": 36,
+                "change_date": "2009-11-28",
+                "amount": 1671.36
+            },
+            {
+                "id": 21,
+                "change_date": "2022-07-26",
+                "amount": 120.94
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 21,
+                "description": "Policy citizen rest expert leave. History camera parent mean sometimes lead.",
+                "date_reported": "1995-12-11"
+            },
+            {
+                "id": 58,
+                "description": "While me job meeting. Through trade approach hour. Develop small better truth mother civil firm.",
+                "date_reported": "1978-04-25"
+            },
+            {
+                "id": 67,
+                "description": "Surface total sit already scientist high. Show pay imagine close tree.",
+                "date_reported": "1970-06-25"
+            },
+            {
+                "id": 83,
+                "description": "Again rich could member bank then. Market law number continue choose return wear.",
+                "date_reported": "1998-06-28"
+            },
+            {
+                "id": 10,
+                "description": "Film election next positive. Hot talk price health experience help when. Mouth arrive after change.",
+                "date_reported": "1986-09-03"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 4,
+                "brand": "Nichols-Livingston",
+                "model": "Model Y"
+            },
+            {
+                "id": 9,
+                "brand": "Hall-Brown",
+                "model": "Model Y"
+            },
+            {
+                "id": 6,
+                "brand": "Gonzales-Jennings",
+                "model": "Model Z"
+            },
+            {
+                "id": 53,
+                "brand": "Savage LLC",
+                "model": "Model X"
+            },
+            {
+                "id": 30,
+                "brand": "Green-Love",
+                "model": "Model X"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "asset_type": "apartment",
+        "status": "available",
+        "location": "18842 Bennett Glen\nAaronton, WA 84675",
+        "occupance_history": [
+            {
+                "id": 31,
+                "start_date": "2009-03-28",
+                "end_date": "2001-08-30",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 41,
+                "start_date": "1986-09-10",
+                "end_date": "2015-03-04",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 57,
+                "start_date": "1997-08-03",
+                "end_date": "1972-01-19",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 47,
+                "start_date": "2015-01-08",
+                "end_date": "1977-10-21",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 47,
+                "start_date": "2016-08-06",
+                "end_date": "2008-01-27",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 69,
+                "start_date": "1987-12-03",
+                "end_date": "1977-08-30",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 75,
+                "start_date": "2015-11-23",
+                "end_date": "2022-03-15",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 29,
+                "start_date": "2015-02-26",
+                "end_date": "2008-02-17",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 57,
+                "start_date": "1970-01-08",
+                "end_date": "1992-01-13",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 25,
+                "start_date": "2001-03-07",
+                "end_date": "2004-08-11",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 52,
+                "change_date": "1998-07-03",
+                "amount": 1543.35
+            },
+            {
+                "id": 93,
+                "change_date": "1971-06-26",
+                "amount": 1209.45
+            },
+            {
+                "id": 37,
+                "change_date": "1991-05-30",
+                "amount": 1180.52
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 45,
+                "description": "East threat last first maybe become. Wind argue floor kid play wonder.",
+                "date_reported": "1977-05-22"
+            },
+            {
+                "id": 41,
+                "description": "Detail structure change little prevent production fund.",
+                "date_reported": "1996-06-05"
+            },
+            {
+                "id": 51,
+                "description": "Today bad direction pattern design. Both quality door seven. Money unit seven nor center star.",
+                "date_reported": "2006-02-25"
+            },
+            {
+                "id": 34,
+                "description": "Small audience spring see pretty. Thank industry film go glass staff individual minute.",
+                "date_reported": "1975-04-27"
+            },
+            {
+                "id": 16,
+                "description": "Trade situation matter rich very probably show. Author you bed sign approach.",
+                "date_reported": "1975-05-10"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 61,
+                "brand": "Bowman, Hendricks and Mitchell",
+                "model": "Model Z"
+            },
+            {
+                "id": 91,
+                "brand": "Frazier PLC",
+                "model": "Model Z"
+            },
+            {
+                "id": 22,
+                "brand": "Hester-Nolan",
+                "model": "Model X"
+            },
+            {
+                "id": 77,
+                "brand": "Lawrence-Campbell",
+                "model": "Model Y"
+            },
+            {
+                "id": 37,
+                "brand": "Barker Group",
+                "model": "Model Z"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "asset_type": "house",
+        "status": "rented",
+        "location": "71439 Alexandra Station Apt. 510\nNorth Jessica, TN 12651",
+        "occupance_history": [
+            {
+                "id": 56,
+                "start_date": "2006-05-19",
+                "end_date": "1973-12-08",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 68,
+                "start_date": "1991-08-18",
+                "end_date": "2021-02-15",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 91,
+                "start_date": "2005-01-12",
+                "end_date": "2013-06-29",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 84,
+                "start_date": "1999-01-19",
+                "end_date": "2016-09-03",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 55,
+                "start_date": "2020-08-28",
+                "end_date": "2015-07-28",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 19,
+                "start_date": "2003-11-04",
+                "end_date": "1988-08-30",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 48,
+                "start_date": "2001-09-15",
+                "end_date": "2013-11-20",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 8,
+                "start_date": "2005-12-26",
+                "end_date": "1996-11-30",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 5,
+                "start_date": "1984-03-14",
+                "end_date": "2021-12-06",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 43,
+                "start_date": "1972-06-02",
+                "end_date": "1993-01-29",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 71,
+                "change_date": "1998-07-10",
+                "amount": 1677.85
+            },
+            {
+                "id": 23,
+                "change_date": "2000-10-09",
+                "amount": 1396.82
+            },
+            {
+                "id": 64,
+                "change_date": "2006-01-28",
+                "amount": 463.61
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 89,
+                "description": "Whatever possible health out. We bank move ever high story human court.",
+                "date_reported": "2004-02-14"
+            },
+            {
+                "id": 86,
+                "description": "Discussion response than herself individual. Administration ever clearly here decide.",
+                "date_reported": "2004-07-05"
+            },
+            {
+                "id": 54,
+                "description": "Tonight different process president under piece laugh evidence.",
+                "date_reported": "1971-11-03"
+            },
+            {
+                "id": 55,
+                "description": "Rich south not also. Window else eat behind lot.",
+                "date_reported": "1985-05-09"
+            },
+            {
+                "id": 80,
+                "description": "Figure study level short save actually wonder. White artist else employee test.",
+                "date_reported": "2005-01-04"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 7,
+                "brand": "Davis-Harmon",
+                "model": "Model X"
+            },
+            {
+                "id": 94,
+                "brand": "Farrell-Holder",
+                "model": "Model Y"
+            },
+            {
+                "id": 84,
+                "brand": "Mitchell, Norton and Holden",
+                "model": "Model X"
+            },
+            {
+                "id": 3,
+                "brand": "Rogers-Wilson",
+                "model": "Model X"
+            },
+            {
+                "id": 40,
+                "brand": "Allen-Davis",
+                "model": "Model Y"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "asset_type": "house",
+        "status": "damaged",
+        "location": "5234 Andrew Points\nByrdhaven, CO 93106",
+        "occupance_history": [
+            {
+                "id": 58,
+                "start_date": "2007-12-11",
+                "end_date": "2009-03-18",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 22,
+                "start_date": "2016-04-21",
+                "end_date": "1981-01-18",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 70,
+                "start_date": "2010-08-31",
+                "end_date": "2002-09-20",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 87,
+                "start_date": "2000-04-30",
+                "end_date": "2023-07-02",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 60,
+                "start_date": "2019-12-26",
+                "end_date": "2000-04-26",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 46,
+                "start_date": "2001-07-29",
+                "end_date": "1982-10-23",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 16,
+                "start_date": "1972-03-12",
+                "end_date": "1990-03-21",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 46,
+                "start_date": "2023-07-24",
+                "end_date": "2003-10-17",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 45,
+                "start_date": "1987-08-10",
+                "end_date": "2014-05-12",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 72,
+                "start_date": "1988-05-27",
+                "end_date": "2011-04-19",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 98,
+                "change_date": "1984-08-11",
+                "amount": 1707.12
+            },
+            {
+                "id": 90,
+                "change_date": "1983-08-23",
+                "amount": 303.13
+            },
+            {
+                "id": 45,
+                "change_date": "2002-03-16",
+                "amount": 1077.04
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 44,
+                "description": "Dark series land some should. Her cell management down western moment century.",
+                "date_reported": "1986-07-24"
+            },
+            {
+                "id": 29,
+                "description": "Range grow professional surface memory activity. Media girl worker old eat next.",
+                "date_reported": "1990-12-10"
+            },
+            {
+                "id": 95,
+                "description": "Laugh lawyer development go whom event would perform. Any four every rise.",
+                "date_reported": "1982-03-24"
+            },
+            {
+                "id": 32,
+                "description": "Pick hold call course box.\nName maintain once middle difficult story. Instead five thought if.",
+                "date_reported": "1981-10-07"
+            },
+            {
+                "id": 77,
+                "description": "Lose station court kind. Compare accept open partner.\nPractice model prove sort.",
+                "date_reported": "1977-07-19"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 62,
+                "brand": "Gutierrez Group",
+                "model": "Model Z"
+            },
+            {
+                "id": 32,
+                "brand": "Patton, Mays and Watkins",
+                "model": "Model Z"
+            },
+            {
+                "id": 97,
+                "brand": "Middleton-Jackson",
+                "model": "Model Z"
+            },
+            {
+                "id": 97,
+                "brand": "Hernandez-Cannon",
+                "model": "Model X"
+            },
+            {
+                "id": 78,
+                "brand": "Curtis-Lee",
+                "model": "Model X"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "asset_type": "house",
+        "status": "damaged",
+        "location": "727 Wells Skyway Suite 495\nEvanfort, SC 10944",
+        "occupance_history": [
+            {
+                "id": 9,
+                "start_date": "2015-07-20",
+                "end_date": "1995-09-10",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 15,
+                "start_date": "2012-11-12",
+                "end_date": "2018-05-20",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 37,
+                "start_date": "1995-03-18",
+                "end_date": "1978-04-14",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 93,
+                "start_date": "2008-02-20",
+                "end_date": "2009-08-03",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 75,
+                "start_date": "2003-01-10",
+                "end_date": "1985-03-10",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 4,
+                "start_date": "1996-06-26",
+                "end_date": "2011-11-19",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 24,
+                "start_date": "1997-03-09",
+                "end_date": "2021-10-31",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 65,
+                "start_date": "1998-01-03",
+                "end_date": "1972-09-05",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 36,
+                "start_date": "2011-11-08",
+                "end_date": "2006-02-18",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 32,
+                "start_date": "2023-04-27",
+                "end_date": "1989-04-06",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 8,
+                "change_date": "1994-10-30",
+                "amount": 740.43
+            },
+            {
+                "id": 32,
+                "change_date": "1989-07-11",
+                "amount": 133.55
+            },
+            {
+                "id": 96,
+                "change_date": "2004-07-29",
+                "amount": 158.41
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 1,
+                "description": "Look power against scientist affect until skin. Word ago prepare lawyer.",
+                "date_reported": "2001-06-06"
+            },
+            {
+                "id": 47,
+                "description": "Head drive share measure no common. Thing cause blue end reach science.",
+                "date_reported": "2007-02-28"
+            },
+            {
+                "id": 86,
+                "description": "Major animal seven PM apply study nature.",
+                "date_reported": "1982-10-09"
+            },
+            {
+                "id": 34,
+                "description": "Let hit point. Including good understand idea democratic. Total each language.",
+                "date_reported": "2011-10-30"
+            },
+            {
+                "id": 58,
+                "description": "Tonight guess participant buy.",
+                "date_reported": "2017-05-06"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 74,
+                "brand": "Freeman, Santiago and Haynes",
+                "model": "Model Z"
+            },
+            {
+                "id": 10,
+                "brand": "Rowe, Keller and Walters",
+                "model": "Model X"
+            },
+            {
+                "id": 31,
+                "brand": "Krause Inc",
+                "model": "Model Y"
+            },
+            {
+                "id": 11,
+                "brand": "Moore LLC",
+                "model": "Model Z"
+            },
+            {
+                "id": 77,
+                "brand": "Gamble-Spencer",
+                "model": "Model Y"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "asset_type": "parking-spot",
+        "status": "damaged",
+        "location": "Unit 8923 Box 1017\nDPO AE 82844",
+        "occupance_history": [
+            {
+                "id": 93,
+                "start_date": "1977-05-11",
+                "end_date": "1994-12-15",
+                "license_plate": "6TQ 940"
+            },
+            {
+                "id": 15,
+                "start_date": "2012-08-29",
+                "end_date": "2015-11-29",
+                "license_plate": "885 CO5"
+            },
+            {
+                "id": 19,
+                "start_date": "1973-12-25",
+                "end_date": "1985-04-12",
+                "license_plate": "MRS-3423"
+            },
+            {
+                "id": 95,
+                "start_date": "1987-05-26",
+                "end_date": "2005-08-03",
+                "license_plate": "FPM-9303"
+            },
+            {
+                "id": 85,
+                "start_date": "1971-01-25",
+                "end_date": "2005-02-23",
+                "license_plate": "CRJ0772"
+            },
+            {
+                "id": 62,
+                "start_date": "1994-01-20",
+                "end_date": "2006-02-25",
+                "license_plate": "3-5916Y"
+            },
+            {
+                "id": 23,
+                "start_date": "1997-05-27",
+                "end_date": "2003-10-11",
+                "license_plate": "LSA 652"
+            },
+            {
+                "id": 35,
+                "start_date": "2006-10-06",
+                "end_date": "2000-04-02",
+                "license_plate": "74-A417"
+            },
+            {
+                "id": 99,
+                "start_date": "2020-05-04",
+                "end_date": "1989-07-28",
+                "license_plate": "CUH-5042"
+            },
+            {
+                "id": 85,
+                "start_date": "1978-08-16",
+                "end_date": "1985-01-09",
+                "license_plate": "22-78339"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 4,
+                "change_date": "2001-06-30",
+                "amount": 513.99
+            },
+            {
+                "id": 80,
+                "change_date": "1998-06-19",
+                "amount": 745.6
+            },
+            {
+                "id": 37,
+                "change_date": "1978-09-23",
+                "amount": 1774.21
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 69,
+                "description": "Resource citizen list police. Perhaps film drug school line drug attorney must.",
+                "date_reported": "2000-07-07"
+            },
+            {
+                "id": 58,
+                "description": "Policy light street modern idea side. Find identify person goal.",
+                "date_reported": "2015-06-05"
+            },
+            {
+                "id": 42,
+                "description": "Mrs Mrs suddenly baby. Glass a require court. Call though participant live including.",
+                "date_reported": "1981-10-16"
+            },
+            {
+                "id": 73,
+                "description": "Food ten candidate prevent serve him. Forget room listen war bill.",
+                "date_reported": "1990-05-22"
+            },
+            {
+                "id": 74,
+                "description": "Question short among green floor. Building officer wrong talk report arrive. Century life free.",
+                "date_reported": "1992-09-21"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 89,
+                "brand": "King and Sons",
+                "model": "Model Z"
+            },
+            {
+                "id": 16,
+                "brand": "Peterson-Barton",
+                "model": "Model X"
+            },
+            {
+                "id": 34,
+                "brand": "Anderson, Powers and Mooney",
+                "model": "Model Y"
+            },
+            {
+                "id": 63,
+                "brand": "Williams and Sons",
+                "model": "Model Z"
+            },
+            {
+                "id": 37,
+                "brand": "Escobar-Patterson",
+                "model": "Model Y"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "asset_type": "apartment",
+        "status": "rented",
+        "location": "690 Daniel Glens\nEast Davidburgh, OR 13531",
+        "occupance_history": [
+            {
+                "id": 76,
+                "start_date": "1973-09-11",
+                "end_date": "2009-09-01",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 87,
+                "start_date": "1979-03-04",
+                "end_date": "1984-07-22",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 77,
+                "start_date": "2010-01-28",
+                "end_date": "1974-08-05",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 27,
+                "start_date": "1988-05-07",
+                "end_date": "2010-07-28",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 52,
+                "start_date": "2018-05-23",
+                "end_date": "1991-08-16",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 54,
+                "start_date": "1993-08-17",
+                "end_date": "2000-10-01",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 21,
+                "start_date": "2011-07-18",
+                "end_date": "2005-10-25",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 64,
+                "start_date": "1975-11-24",
+                "end_date": "2017-10-04",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 87,
+                "start_date": "1996-02-28",
+                "end_date": "1991-07-06",
+                "license_plate": "N/A"
+            },
+            {
+                "id": 65,
+                "start_date": "1973-03-07",
+                "end_date": "2022-08-04",
+                "license_plate": "N/A"
+            }
+        ],
+        "rent_history": [
+            {
+                "id": 29,
+                "change_date": "2007-03-06",
+                "amount": 663.44
+            },
+            {
+                "id": 11,
+                "change_date": "1995-10-07",
+                "amount": 289.28
+            },
+            {
+                "id": 10,
+                "change_date": "1985-01-31",
+                "amount": 1943.13
+            }
+        ],
+        "damage_history": [
+            {
+                "id": 35,
+                "description": "Form ok notice drop. State include high know team military. So help opportunity range production.",
+                "date_reported": "1991-03-16"
+            },
+            {
+                "id": 94,
+                "description": "Factor item available never television increase. Ball second serve beautiful anything.",
+                "date_reported": "1980-06-08"
+            },
+            {
+                "id": 89,
+                "description": "Her claim concern treatment out. Couple relate within open. Exactly indeed as participant cause.",
+                "date_reported": "2000-01-10"
+            },
+            {
+                "id": 92,
+                "description": "List company federal when professor kid. High kind food catch book.",
+                "date_reported": "2014-11-15"
+            },
+            {
+                "id": 55,
+                "description": "Glass reveal change claim statement increase administration the. Case little smile.",
+                "date_reported": "1986-08-14"
+            }
+        ],
+        "appliances": [
+            {
+                "id": 84,
+                "brand": "Harris, Jackson and Jones",
+                "model": "Model Z"
+            },
+            {
+                "id": 49,
+                "brand": "Ruiz-Watkins",
+                "model": "Model Z"
+            },
+            {
+                "id": 37,
+                "brand": "Patrick, Contreras and King",
+                "model": "Model Z"
+            },
+            {
+                "id": 58,
+                "brand": "Rose Group",
+                "model": "Model Y"
+            },
+            {
+                "id": 86,
+                "brand": "Miller-Williams",
+                "model": "Model X"
+            }
+        ]
+    }
+]
