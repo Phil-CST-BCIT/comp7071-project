@@ -40,7 +40,6 @@ The port forwarding to the host can be configured under the `app` service in the
 
 The port the API listens on can be configured under the `app` section in `crm-api\app_conf.yml`
 
-
 ## Usage
 
 You make requests using your preferred method such as Postman or Curl, however the project deploys SwaggerUI which is the easiest.
@@ -59,3 +58,19 @@ Follow these instructions to import the OpenAPI spec into Postman [Import Swagge
 To stop the running services: `docker-compose down`
 
 Or if you ran manually, ctrl+z in the terminal running the API
+
+## Testing
+
+Testing covers POST operations to the API
+
+1. Follow the manual setup instructions above
+1. Change directory to `test`
+1. Run the test script: `python3 ./test.py`
+
+### Generate New Sample Data
+
+Sample data generation ensures that the `asset_id` for an `applicant` record references a real `asset` record which has already been inserted.
+
+1. Follow the manual setup instructions above
+1. Install the requirements for generating sample data `pip install -r ./test/requirements.txt`
+1. Run the generation script: `python3 ./generate_sample.py`
