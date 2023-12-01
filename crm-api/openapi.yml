@@ -80,6 +80,21 @@ paths:
       responses:
         '204':
           description: Deleted
+  /applicant/{id}/applications:
+    get:
+      summary: Get all applications for an applicant
+      operationId: app.get_all_applications_by_applicant_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        '200':
+          description: A list of applications
   /asset:
     get:
       summary: Get all assets

@@ -64,6 +64,30 @@ def delete_applicant_by_id(id):
     applicant_c.delete_one({'id': id})
     return NoContent, 204
 
+def get_all_applications_by_applicant_id(id):
+    logger.info(f"Request: get_all_applications_by_applicant_id: {id}")
+    res = []
+    applicant_c = db['applicant']
+    applicant = applicant_c.find_one({'id': id})
+    if applicant:
+        asset_c = db['asset']
+        found = asset_c.find({'id': applicant['asset_id']})
+        for a in found:
+            res.append(
+                {
+                    'id': a['id'],
+                    'asset_type': a['asset_type'],
+                    'status': a['status'],
+                    'location': a['location'],
+                    'occupancy_history': a['occupancy_history'],
+                    'rent_history': a['rent_history'],
+                    'damage_history': a['damage_history'],
+                    'appliances': a['appliances'],
+                }
+            )
+    
+    return res, 200
+
 def get_all_assets():
     logger.info(f"Request: get_all_assets")
     asset_c = db['asset']
