@@ -14,6 +14,7 @@ def get_all_applicants():
                 'name': a['name'],
                 'employer': a['employer'],
                 'income': a['income'],
+                'asset_id': a['asset_id'],
                 'reference': a['reference'],
             }
         )
@@ -39,6 +40,7 @@ def get_applicant_by_id(id):
                 'name': found['name'],
                 'employer': found['employer'],
                 'income': found['income'],
+                'asset_id': found['asset_id'],
                 'reference': found['reference'],
             }
         status = 200
