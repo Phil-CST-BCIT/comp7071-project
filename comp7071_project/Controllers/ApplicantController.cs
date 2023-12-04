@@ -124,7 +124,7 @@ namespace comp7071_project.Controllers
         /// <response code="400">If the applicant is null</response>
         [HttpPut("{id}")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Update(int id, [Bind("Id,Name,Employer,Income")] Applicant applicant)
+        public async Task<IActionResult> UpdateApplicant(int id, [Bind("Id, Name,Employer,Income")] Applicant applicant)
         {
             if (id != applicant.Id)
             {
@@ -135,27 +135,28 @@ namespace comp7071_project.Controllers
             {
                 try
                 {
-                    _context.Update(applicant);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!ApplicantExists(applicant.Id))
+                    var existingApplicant = await _context.Applicants.FindAsync(id);
+                    if (existingApplicant == null)
                     {
                         return NotFound();
                     }
-                    else
-                    {
-                        throw;
-                    }
-                }
+                    existingApplicant.Name = applicant.Name;
+                    existingApplicant.Employer = applicant.Employer;
+                    existingApplicant.Income = applicant.Income;
+                    await _context.SaveChangesAsync();
 
-                // return json action result
-                return Json(new { success = true, message = "Applicant updated successfully" });
+                    // Return a JSON action result for success
+                    return Json(new { success = true, message = "Applicant updated successfully" });
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    return Json(new { success = false, message = "Concurrency exception occurred during update" });
+                }
             }
             else
             {
-                return Json(new { success = false, message = "Applicant update failed" });
+                // Return a JSON action result for validation failure
+                return Json(new { success = false, message = "Applicant update failed due to validation errors" });
             }
         }
 
