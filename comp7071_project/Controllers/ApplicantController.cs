@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using comp7071_project.Models;
+using comp7071_project.Data;
 
 namespace comp7071_project.Controllers
 {
@@ -95,7 +96,6 @@ namespace comp7071_project.Controllers
                 asset.Type = "Apartment";
                 asset.Location = "Toronto";
                 asset.Application = application;
-                asset.ApplicationId = application.Id;
 
                 application.AssetId = asset.Id;
                 application.Asset = asset;

@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using comp7071_project.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace comp7071_project.Models;
+namespace comp7071_project.Data;
 
 public partial class Comp7071ProjectContext : DbContext
 {

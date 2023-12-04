@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {}
+    "C:\\mFolder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {}
   },
   "projects": {
-    "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {
+    "C:\\mFolder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
+        "projectUniqueName": "C:\\mFolder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
         "projectName": "comp7071_project",
-        "projectPath": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
+        "projectPath": "C:\\mFolder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\comp7071_project.csproj",
         "packagesPath": "C:\\Users\\BeeWang-9i23\\.nuget\\packages\\",
-        "outputPath": "C:\\Misc. Folder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\obj\\",
+        "outputPath": "C:\\mFolder\\BCIT\\BScASC\\Semesters\\2023Fall\\COMP7071\\comp7071-project\\comp7071_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,6 +66,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
