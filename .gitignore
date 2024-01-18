@@ -1,7 +1,8 @@
 # Ignore build output
 bin/**/*
 obj/**/*
-
+comp7071_project/bin/**/*
+comp7071_project/obj/**/*
 # Ignore NuGet packages
 *.nupkg
 packages/
