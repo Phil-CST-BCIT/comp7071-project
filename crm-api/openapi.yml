@@ -1,0 +1,287 @@
+openapi: 3.0.0
+info:
+  title: Applicant API
+  version: 1.0.0
+paths:
+  /applicant:
+    get:
+      summary: Get all applicants
+      operationId: app.get_all_applicants
+      responses:
+        "200":
+          description: A list of applicants
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/applicant"
+    post:
+      summary: Create a new applicant
+      operationId: app.create_applicant
+      responses:
+        "201":
+          description: Created
+        "400":
+          description: Invalid input, object invalid
+        "409":
+          description: An existing item already exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/applicant"
+  /applicant/{id}:
+    get:
+      summary: Get an applicant by ID
+      operationId: app.get_applicant_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        "200":
+          description: An applicant
+    put:
+      summary: Update an applicant by ID
+      operationId: app.update_applicant_by_id
+      responses:
+        "200":
+          description: Updated
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/applicant"
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+    delete:
+      summary: Delete an applicant by ID
+      operationId: app.delete_applicant_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        "204":
+          description: Deleted
+  /applicant/{id}/applications:
+    get:
+      summary: Get all applications for an applicant
+      operationId: app.get_all_applications_by_applicant_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The applicant ID
+      responses:
+        "200":
+          description: A list of applications
+  /asset:
+    get:
+      summary: Get all assets
+      operationId: app.get_all_assets
+      responses:
+        "200":
+          description: A list of assets
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/asset"
+    post:
+      summary: Create a new asset
+      operationId: app.create_asset
+      responses:
+        "201":
+          description: Created
+        "400":
+          description: Invalid input, object invalid
+        "409":
+          description: An existing item already exists
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/asset"
+  /asset/{id}:
+    get:
+      summary: Get an asset by ID
+      operationId: app.get_asset_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+      responses:
+        "200":
+          description: An asset
+    put:
+      summary: Update an asset by ID
+      operationId: app.update_asset_by_id
+      responses:
+        "200":
+          description: Updated
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/applicant"
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+    delete:
+      summary: Delete an asset by ID
+      operationId: app.delete_asset_by_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+      responses:
+        "204":
+          description: Deleted
+  /asset/{id}/applicants:
+    get:
+      summary: Get all applicants for an asset
+      operationId: app.get_all_applicants_by_asset_id
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: The asset ID
+      responses:
+        "200":
+          description: A list of applicants
+components:
+  schemas:
+    applicant:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        employer:
+          type: string
+        income:
+          type: number
+        asset_id:
+          type: integer
+        reference:
+          $ref: "#/components/schemas/reference"
+    reference:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        relationship:
+          type: string
+    asset:
+      type: object
+      properties:
+        id:
+          type: integer
+        asset_type:
+          type: string
+        status:
+          type: string
+        location:
+          type: string
+        occupancy_history:
+          type: array
+          items:
+            $ref: "#/components/schemas/occupancy"
+        rent_history:
+          type: array
+          items:
+            $ref: "#/components/schemas/rent"
+        damage_history:
+          type: array
+          items:
+            $ref: "#/components/schemas/damage"
+        appliances:
+          type: array
+          items:
+            $ref: "#/components/schemas/appliance"
+    occupancy:
+      type: object
+      properties:
+        id:
+          type: integer
+        start_date:
+          type: string
+          format: date
+        end_date:
+          type: string
+          format: date
+        license_plate:
+          type: string
+    rent:
+      type: object
+      properties:
+        id:
+          type: integer
+        change_date:
+          type: string
+          format: date
+        amount:
+          type: number
+    damage:
+      type: object
+      properties:
+        id:
+          type: integer
+        description:
+          type: string
+        date_reported:
+          type: string
+          format: date
+    appliance:
+      type: object
+      properties:
+        id:
+          type: integer
+        brand:
+          type: string
+        model:
+          type: string
+    Message404:
+      type: object
+      properties:
+        message:
+          type: string
