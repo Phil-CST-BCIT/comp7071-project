@@ -1,6 +1,6 @@
 # Ignore build output
-bin/
-obj/
+bin/**/*
+obj/**/*
 
 # Ignore NuGet packages
 *.nupkg
@@ -43,16 +43,6 @@ share/python-wheels/
 # Flask stuff:
 instance/
 .webenv
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Environments
-.env
 .venv
 env/
 venv/
