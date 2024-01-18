@@ -1435,9 +1435,8 @@ function getData() {
   //     chart.update();
   //   });
 
-  const month = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Nov', 'Dec'];
   const m = aggregateMonth();
-  const labels = Object.keys(m).map((item) => month[item]);
+  const labels = Object.keys(m).map((e) => Intl.DateTimeFormat('en-US', { month: 'short' }).format(new Date(2021, e)));
   const dataValues = Object.values(m);
   chart.data.labels = labels;
   chart.data.datasets[0].data = dataValues;
