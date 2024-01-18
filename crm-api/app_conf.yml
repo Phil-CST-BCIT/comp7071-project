@@ -1,0 +1,10 @@
+version: 1
+datastore:
+  user: "admin"
+  password: "password"
+  hostname: "mongodb"
+  port: 27017
+  db: crm-api
+  authSource: "admin"
+app:
+  port: 8100

@@ -1,0 +1,3 @@
+PyYAML
+connexion[flask,swagger-ui,uvicorn]
+pymongo
