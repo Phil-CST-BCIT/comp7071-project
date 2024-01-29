@@ -1393,6 +1393,7 @@ const data = [
     ],
   },
 ];
+
 // Get the canvas element from the HTML file
 const canvas = document.getElementById('myChart');
 
@@ -1443,6 +1444,17 @@ function getData() {
   chart.update();
 }
 
+function generateReport() {
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+  // generate a pdf with a table
+  doc.autoTable({
+    head: [['ID', 'Asset Type', 'Status', 'Location']],
+    body: data.map((item) => [item.id, item.asset_type, item.status, item.location]),
+  });
+  doc.output('dataurlnewwindow', 'report.pdf');
+}
+
 function aggregateMonth() {
   const m = {};
   data.map((item) =>
@@ -1458,5 +1470,3 @@ function aggregateMonth() {
 
   return m;
 }
-
-getData();

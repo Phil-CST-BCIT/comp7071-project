@@ -4,11 +4,21 @@
     <title>My Chart</title>
     <link rel="stylesheet" href="styles.css" />
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://unpkg.com/jspdf-autotable@3.8.1/dist/jspdf.plugin.autotable.js"></script>
   </head>
   <body>
     <h1>My Chart</h1>
     <div id="chartContainer">
       <canvas id="myChart"></canvas>
+    </div>
+    <div>
+      <button id="displayBtn" , onclick="getData()">Display</button>
+    </div>
+    <div>
+      <button id="generateReport" , onclick="generateReport()" style="margin: 10px 10px 10px 10px">
+        Generate Report
+      </button>
     </div>
     <script src="chart.js"></script>
   </body>
