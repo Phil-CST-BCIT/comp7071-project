@@ -7,11 +7,10 @@ public partial class RentHistory
 {
     public int Id { get; set; }
 
+    public DateOnly EffectiveDate { get; set; }
+
+    public double Amount { get; set; }
+
     public int AssetId { get; set; }
-
-    public DateOnly? Date { get; set; }
-
-    public double? Amount { get; set; }
-
     public virtual Asset Asset { get; set; } = null!;
 }
