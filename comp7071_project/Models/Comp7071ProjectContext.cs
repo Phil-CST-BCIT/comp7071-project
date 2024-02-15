@@ -45,9 +45,23 @@ public partial class Comp7071ProjectContext : DbContext
 
     public virtual DbSet<WorkItem> WorkItems { get; set; }
 
+    public virtual DbSet<ApplianceDim> ApplianceDims { get; set; }
+
+    public virtual DbSet<AssetDim> AssetDims { get; set; }
+    
+    public virtual DbSet<CustomerDim> CustomerDims { get; set; }
+    
+    public virtual DbSet<DateDim> DateDims { get; set; }
+    
+    public virtual DbSet<MaintenanceRequestDim> MaintenanceRequestDims { get; set; }
+    
+    public virtual DbSet<RentFact> RentFacts { get; set; }
+    
+    public virtual DbSet<RentHistoryDim> RentHistoryDims { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=.;Database=comp7071_project;Trusted_Connection=True;TrustServerCertificate=True");
+        => optionsBuilder.UseSqlServer("Server=localhost,8844;Database=comp7071_project;Trusted_Connection=True;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
