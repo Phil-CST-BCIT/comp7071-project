@@ -15,50 +15,50 @@ public partial class Comp7071ProjectContext : DbContext
     {
     }
 
-    public virtual DbSet<Appliance> Appliances { get; set; }
+    public virtual DbSet<Appliance> Appliance { get; set; }
 
-    public virtual DbSet<Applicant> Applicants { get; set; }
+    public virtual DbSet<Applicant> Applicant { get; set; }
 
-    public virtual DbSet<Application> Applications { get; set; }
+    public virtual DbSet<Application> Application { get; set; }
 
-    public virtual DbSet<Asset> Assets { get; set; }
+    public virtual DbSet<Asset> Asset { get; set; }
 
-    public virtual DbSet<Damage> Damages { get; set; }
+    public virtual DbSet<Damage> Damage { get; set; }
 
-    public virtual DbSet<Invoice> Invoices { get; set; }
+    public virtual DbSet<Invoice> Invoice { get; set; }
 
-    public virtual DbSet<JobReport> JobReports { get; set; }
+    public virtual DbSet<JobReport> JobReport { get; set; }
 
-    public virtual DbSet<LineItem> LineItems { get; set; }
+    public virtual DbSet<LineItem> LineItem { get; set; }
 
-    public virtual DbSet<MaintenanceRequest> MaintenanceRequests { get; set; }
+    public virtual DbSet<MaintenanceRequest> MaintenanceRequest { get; set; }
 
-    public virtual DbSet<OccupancyHistory> OccupancyHistories { get; set; }
+    public virtual DbSet<OccupancyHistory> OccupancyHistory { get; set; }
 
-    public virtual DbSet<Reference> References { get; set; }
+    public virtual DbSet<Reference> Reference { get; set; }
 
-    public virtual DbSet<RentHistory> RentHistories { get; set; }
+    public virtual DbSet<RentHistory> RentHistory { get; set; }
 
-    public virtual DbSet<Renter> Renters { get; set; }
+    public virtual DbSet<Renter> Renter { get; set; }
 
-    public virtual DbSet<Service> Services { get; set; }
+    public virtual DbSet<Service> Service { get; set; }
 
-    // public virtual DbSet<WorkItem> WorkItems { get; set; }
+    // public virtual DbSet<WorkItem> WorkItem { get; set; }
 
-    public virtual DbSet<ApplianceDim> ApplianceDims { get; set; }
+    public virtual DbSet<ApplianceDim> ApplianceDim { get; set; }
 
-    public virtual DbSet<AssetDim> AssetDims { get; set; }
+    public virtual DbSet<AssetDim> AssetDim { get; set; }
     
-    public virtual DbSet<RenterDim> CustomerDims { get; set; }
+    public virtual DbSet<RenterDim> CustomerDim { get; set; }
     
-    public virtual DbSet<DateDim> DateDims { get; set; }
+    public virtual DbSet<DateDim> DateDim { get; set; }
     
-    public virtual DbSet<MaintenanceRequestDim> MaintenanceRequestDims { get; set; }
+    public virtual DbSet<MaintenanceRequestDim> MaintenanceRequestDim { get; set; }
     
-    public virtual DbSet<PaymentFact> PaymentFacts { get; set; }
-    // public virtual DbSet<PaymentFact> RentFacts { get; set; }
+    public virtual DbSet<PaymentFact> PaymentFact { get; set; }
+    // public virtual DbSet<PaymentFact> RentFact { get; set; }
     
-    public virtual DbSet<RentHistoryDim> RentHistoryDims { get; set; }
+    public virtual DbSet<RentHistoryDim> RentHistoryDim { get; set; }
 //
 //     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 // #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
