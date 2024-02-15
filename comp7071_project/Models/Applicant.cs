@@ -7,12 +7,11 @@ public partial class Applicant
 {
     public int Id { get; set; }
 
-    public string? Name { get; set; }
+    public string Name { get; set; }
 
-    public string? Employer { get; set; }
+    public string Employer { get; set; }
     
-
-    public double? Income { get; set; }
+    public double Income { get; set; }
 
     public virtual Reference? Reference { get; set; }
 
