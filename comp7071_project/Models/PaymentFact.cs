@@ -1,6 +1,6 @@
 namespace comp7071_project.Models;
 
-public class RentFact
+public class PaymentFact
 {
     public int Id { get; set; }
 
@@ -10,7 +10,7 @@ public class RentFact
 
     public virtual AssetDim? AssetDim { get; set; }
     
-    public virtual CustomerDim? CustomerDim { get; set; }
+    public virtual RenterDim? CustomerDim { get; set; }
 
     public virtual DateDim? DateDim { get; set; }
     
