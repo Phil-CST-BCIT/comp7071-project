@@ -182,6 +182,23 @@ namespace comp7071_project.Controllers
             
             return Json(new { success = true, message = "Applicant deleted successfully" });
         }
+        
+        
+        /// <summary> 
+        /// This method returns a q1
+        /// </summary>
+        /// <returns>JsonResult</returns>
+        /// <example>
+        /// GET: api/analysis/q1
+        /// </example>
+        /// <response code="200">Returns a list of all applicants</response>
+        /// <response code="404">If the list of applicants is empty</response>
+        [HttpGet("q1")]
+        public async Task<IActionResult> Query1()
+        {
+            var applicants = await _context.Applicants.ToListAsync();
+            return Json(new { success = true, message = "Applicants retrieved successfully", data = applicants });
+        } 
 
         private bool ApplicantExists(int id)
         {
