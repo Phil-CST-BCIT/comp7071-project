@@ -11,9 +11,10 @@ public partial class Applicant
 
     public string? Employer { get; set; }
     
-    public string? Reference { get; set; }
 
     public double? Income { get; set; }
+
+    public virtual Reference? Reference { get; set; }
 
     public virtual Application? Application { get; set; }
 }

@@ -13,5 +13,7 @@ public partial class Invoice
 
     public DateOnly? DueDate { get; set; }
 
+    public virtual Renter Renter { get; set; }
+    
     public virtual ICollection<LineItem> LineItems { get; set; } = new List<LineItem>();
 }
