@@ -10,6 +10,8 @@ public partial class Applicant
     public string? Name { get; set; }
 
     public string? Employer { get; set; }
+    
+    public string? Reference { get; set; }
 
     public double? Income { get; set; }
 
