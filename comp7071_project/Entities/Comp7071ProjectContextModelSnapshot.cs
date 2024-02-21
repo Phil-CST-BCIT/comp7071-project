@@ -161,7 +161,20 @@ namespace comp7071_project.Entities
 
                     b.HasIndex("RenterId");
 
-                    b.ToTable("Asset");
+                    b.ToTable("Asset", t =>
+                        {
+                            t.HasTrigger("AfterApplianceINSERT");
+
+                            t.HasTrigger("AfterAssetINSERT");
+
+                            t.HasTrigger("AfterInvoiceINSERT");
+
+                            t.HasTrigger("AfterMaintenanceRequestINSERT");
+
+                            t.HasTrigger("AfterRenterINSERT");
+                        });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("comp7071_project.Models.AssetDim", b =>

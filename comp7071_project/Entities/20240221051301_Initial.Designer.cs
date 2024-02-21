@@ -12,7 +12,7 @@ using comp7071_project.Models;
 namespace comp7071_project.Entities
 {
     [DbContext(typeof(Comp7071ProjectContext))]
-    [Migration("20240221043324_Initial")]
+    [Migration("20240221051301_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -164,7 +164,20 @@ namespace comp7071_project.Entities
 
                     b.HasIndex("RenterId");
 
-                    b.ToTable("Asset");
+                    b.ToTable("Asset", t =>
+                        {
+                            t.HasTrigger("AfterApplianceINSERT");
+
+                            t.HasTrigger("AfterAssetINSERT");
+
+                            t.HasTrigger("AfterInvoiceINSERT");
+
+                            t.HasTrigger("AfterMaintenanceRequestINSERT");
+
+                            t.HasTrigger("AfterRenterINSERT");
+                        });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("comp7071_project.Models.AssetDim", b =>
