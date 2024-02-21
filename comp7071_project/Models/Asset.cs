@@ -26,4 +26,7 @@ public partial class Asset
     public virtual ICollection<OccupancyHistory> OccupancyHistories { get; set; } = new List<OccupancyHistory>();
 
     public virtual ICollection<RentHistory> RentHistories { get; set; } = new List<RentHistory>();
+    
+    public int? RenterId { get; set; }
+    public Renter? Renter { get; set; }
 }

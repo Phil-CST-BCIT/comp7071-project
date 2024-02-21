@@ -1,6 +1,6 @@
 namespace comp7071_project.Models;
 
-public class PaymentFact
+public class InvoiceFact
 {
     public int Id { get; set; }
 
