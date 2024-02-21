@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using comp7071_project.Models;
 
@@ -11,9 +12,11 @@ using comp7071_project.Models;
 namespace comp7071_project.Entities
 {
     [DbContext(typeof(Comp7071ProjectContext))]
-    partial class Comp7071ProjectContextModelSnapshot : ModelSnapshot
+    [Migration("20240221043324_Initial")]
+    partial class Initial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
