@@ -42,21 +42,18 @@ public partial class Comp7071ProjectContext : DbContext
     public virtual DbSet<Renter> Renter { get; set; }
 
     public virtual DbSet<Service> Service { get; set; }
-
-    // public virtual DbSet<WorkItem> WorkItem { get; set; }
-
+    
     public virtual DbSet<ApplianceDim> ApplianceDim { get; set; }
 
     public virtual DbSet<AssetDim> AssetDim { get; set; }
     
-    public virtual DbSet<RenterDim> CustomerDim { get; set; }
+    public virtual DbSet<RenterDim> RenterDim { get; set; }
     
     public virtual DbSet<DateDim> DateDim { get; set; }
     
     public virtual DbSet<MaintenanceRequestDim> MaintenanceRequestDim { get; set; }
     
-    public virtual DbSet<PaymentFact> PaymentFact { get; set; }
-    // public virtual DbSet<PaymentFact> RentFact { get; set; }
+    public virtual DbSet<InvoiceFact> InvoiceFact { get; set; }
     
     public virtual DbSet<RentHistoryDim> RentHistoryDim { get; set; }
 //
