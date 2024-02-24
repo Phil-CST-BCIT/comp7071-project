@@ -10,7 +10,7 @@ public class InvoiceFact
 
     public virtual AssetDim? AssetDim { get; set; }
     
-    public virtual RenterDim? CustomerDim { get; set; }
+    public virtual RenterDim? RenterDim { get; set; }
 
     public virtual DateDim? DateDim { get; set; }
     
