@@ -60,15 +60,15 @@ public partial class Comp7071ProjectContext : DbContext
     {
         // Need to inform EF that the table associated has a trigger in place
         // https://learn.microsoft.com/en-us/ef/core/providers/sql-server/misc
-        modelBuilder.Entity<Asset>()
+        modelBuilder.Entity<Appliance>()
             .ToTable(tb => tb.HasTrigger("AfterApplianceINSERT"));
         modelBuilder.Entity<Asset>()
             .ToTable(tb => tb.HasTrigger("AfterAssetINSERT"));
-        modelBuilder.Entity<Asset>()
+        modelBuilder.Entity<Renter>()
             .ToTable(tb => tb.HasTrigger("AfterRenterINSERT"));
-        modelBuilder.Entity<Asset>()
+        modelBuilder.Entity<MaintenanceRequest>()
             .ToTable(tb => tb.HasTrigger("AfterMaintenanceRequestINSERT"));
-        modelBuilder.Entity<Asset>()
+        modelBuilder.Entity<Invoice>()
             .ToTable(tb => tb.HasTrigger("AfterInvoiceINSERT"));
     }
 //
