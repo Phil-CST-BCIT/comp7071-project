@@ -636,7 +636,7 @@ namespace comp7071_project.Entities
                         .WithMany()
                         .HasForeignKey("AssetDimId");
 
-                    b.HasOne("comp7071_project.Models.RenterDim", "CustomerDim")
+                    b.HasOne("comp7071_project.Models.RenterDim", "RenterDim")
                         .WithMany()
                         .HasForeignKey("CustomerDimId");
 
@@ -656,7 +656,7 @@ namespace comp7071_project.Entities
 
                     b.Navigation("AssetDim");
 
-                    b.Navigation("CustomerDim");
+                    b.Navigation("RenterDim");
 
                     b.Navigation("DateDim");
 
